@@ -258,8 +258,136 @@
             <el-col :span="isMobile ? 6 : 3" class="button-col">
               <el-button class="action-button" @click="toDualCreate()">双人模式（测试）</el-button>
             </el-col>
+            <el-col :span="isMobile ? 6 : 3" class="button-col">
+              <el-button type="warning" class="action-button" icon="el-icon-search" @click="pokedexVisible = true">查图鉴</el-button>
+            </el-col>
           </el-row>
         </div>
+
+        <!-- 图鉴筛选对话框 -->
+        <el-dialog
+          title="图鉴筛选"
+          :visible.sync="pokedexVisible"
+          :width="isMobile ? '95%' : '80%'"
+          custom-class="pokedex-dialog"
+          :close-on-click-modal="false">
+          <div class="pokedex-filter">
+            <el-row :gutter="16">
+              <!-- 属性筛选 -->
+              <el-col :span="isMobile ? 24 : 8">
+                <div class="filter-section">
+                  <div class="filter-title">属性</div>
+                  <el-select v-model="pokedexFilters.types" multiple placeholder="选择属性" size="small" style="width: 100%">
+                    <el-option v-for="t in pokedexOptions.types" :key="t" :label="t" :value="t"></el-option>
+                  </el-select>
+                </div>
+              </el-col>
+              <!-- 世代筛选 -->
+              <el-col :span="isMobile ? 24 : 8">
+                <div class="filter-section">
+                  <div class="filter-title">世代</div>
+                  <el-select v-model="pokedexFilters.generation" placeholder="选择世代" size="small" style="width: 100%" clearable>
+                    <el-option v-for="g in pokedexOptions.generations" :key="g" :label="g" :value="g"></el-option>
+                  </el-select>
+                </div>
+              </el-col>
+              <!-- 进化阶段 -->
+              <el-col :span="isMobile ? 24 : 8">
+                <div class="filter-section">
+                  <div class="filter-title">进化阶段</div>
+                  <el-select v-model="pokedexFilters.evolution_stage" placeholder="选择进化阶段" size="small" style="width: 100%" clearable>
+                    <el-option v-for="e in pokedexOptions.evolution_stages" :key="e" :label="e" :value="e"></el-option>
+                  </el-select>
+                </div>
+              </el-col>
+            </el-row>
+            <el-row :gutter="16" style="margin-top: 12px;">
+              <!-- 颜色筛选 -->
+              <el-col :span="isMobile ? 24 : 8">
+                <div class="filter-section">
+                  <div class="filter-title">颜色</div>
+                  <el-select v-model="pokedexFilters.color" placeholder="选择颜色" size="small" style="width: 100%" clearable>
+                    <el-option v-for="c in pokedexOptions.colors" :key="c" :label="c" :value="c"></el-option>
+                  </el-select>
+                </div>
+              </el-col>
+              <!-- 体形筛选 -->
+              <el-col :span="isMobile ? 24 : 8">
+                <div class="filter-section">
+                  <div class="filter-title">体形</div>
+                  <el-select v-model="pokedexFilters.shape" placeholder="选择体形" size="small" style="width: 100%" clearable>
+                    <el-option v-for="s in pokedexOptions.shapes" :key="s" :label="s" :value="s"></el-option>
+                  </el-select>
+                </div>
+              </el-col>
+              <!-- 蛋组筛选 -->
+              <el-col :span="isMobile ? 24 : 8">
+                <div class="filter-section">
+                  <div class="filter-title">蛋组</div>
+                  <el-select v-model="pokedexFilters.egg_groups" multiple placeholder="选择蛋组" size="small" style="width: 100%">
+                    <el-option v-for="eg in pokedexOptions.egg_groups" :key="eg" :label="eg" :value="eg"></el-option>
+                  </el-select>
+                </div>
+              </el-col>
+            </el-row>
+            <el-row :gutter="16" style="margin-top: 12px;">
+              <!-- 特性筛选 -->
+              <el-col :span="isMobile ? 24 : 12">
+                <div class="filter-section">
+                  <div class="filter-title">特性</div>
+                  <el-select v-model="pokedexFilters.ability" filterable placeholder="搜索特性" size="small" style="width: 100%" clearable>
+                    <el-option v-for="a in pokedexOptions.abilities" :key="a" :label="a" :value="a"></el-option>
+                  </el-select>
+                </div>
+              </el-col>
+              <!-- 捕获率范围 -->
+              <el-col :span="isMobile ? 24 : 12">
+                <div class="filter-section">
+                  <div class="filter-title">捕获率 ({{ pokedexFilters.catchRateRange[0] }} - {{ pokedexFilters.catchRateRange[1] }})</div>
+                  <el-slider v-model="pokedexFilters.catchRateRange" range :min="0" :max="255" size="small"></el-slider>
+                </div>
+              </el-col>
+            </el-row>
+            <el-row :gutter="16" style="margin-top: 12px;">
+              <!-- 种族值总和范围 -->
+              <el-col :span="isMobile ? 24 : 12">
+                <div class="filter-section">
+                  <div class="filter-title">种族值总和 ({{ pokedexFilters.totalStatsRange[0] }} - {{ pokedexFilters.totalStatsRange[1] }})</div>
+                  <el-slider v-model="pokedexFilters.totalStatsRange" range :min="0" :max="800" size="small"></el-slider>
+                </div>
+              </el-col>
+              <!-- 速度范围 -->
+              <el-col :span="isMobile ? 24 : 12">
+                <div class="filter-section">
+                  <div class="filter-title">速度种族值 ({{ pokedexFilters.speedRange[0] }} - {{ pokedexFilters.speedRange[1] }})</div>
+                  <el-slider v-model="pokedexFilters.speedRange" range :min="0" :max="200" size="small"></el-slider>
+                </div>
+              </el-col>
+            </el-row>
+            <el-row style="margin-top: 12px;">
+              <el-col :span="24">
+                <el-button type="primary" size="small" @click="resetPokedexFilter">重置</el-button>
+                <span style="margin-left: 16px; color: #909399;">符合条件: {{ filteredPokedex.length }} 只</span>
+              </el-col>
+            </el-row>
+          </div>
+          <!-- 筛选结果 -->
+          <div class="pokedex-results" v-if="filteredPokedex.length > 0">
+            <div class="results-list">
+              <el-tag
+                v-for="(p, idx) in filteredPokedex"
+                :key="p.index + '-' + idx"
+                size="small"
+                style="margin: 2px; cursor: pointer;"
+                @click="selectFromPokedex(p.name)">
+                {{ p.name }}
+              </el-tag>
+            </div>
+          </div>
+          <div v-else class="pokedex-results">
+            <span style="color: #909399;">没有符合条件的宝可梦</span>
+          </div>
+        </el-dialog>
 
         <div class="stats-container">
             <div class="stat-item">
@@ -589,7 +717,31 @@ export default {
       useGitHubImages: true,
       windowWidth: window.innerWidth,
       isMobile: window.innerWidth <= 768,
-      tempSettings: null
+      tempSettings: null,
+      // 图鉴筛选相关
+      pokedexVisible: false,
+      pokedexData: null,
+      pokedexOptions: {
+        types: [],
+        colors: [],
+        shapes: [],
+        egg_groups: [],
+        abilities: [],
+        generations: [],
+        evolution_stages: []
+      },
+      pokedexFilters: {
+        types: [],
+        color: '',
+        shape: '',
+        egg_groups: [],
+        ability: '',
+        generation: '',
+        evolution_stage: '',
+        catchRateRange: [0, 255],
+        totalStatsRange: [0, 800],
+        speedRange: [0, 200]
+      }
     }
   },
   methods: {
@@ -1195,6 +1347,35 @@ export default {
     },
     saveTempSettings() {
       this.tempSettings = JSON.parse(JSON.stringify(this.settings));
+    },
+    // 图鉴筛选相关方法
+    loadPokedexData() {
+      if (this.pokedexData) return;
+      try {
+        const data = require('@/assets/json/PokedexFilter.json');
+        this.pokedexData = data.pokemon;
+        this.pokedexOptions = data.options;
+      } catch (e) {
+        console.error('加载图鉴数据失败:', e);
+      }
+    },
+    resetPokedexFilter() {
+      this.pokedexFilters = {
+        types: [],
+        color: '',
+        shape: '',
+        egg_groups: [],
+        ability: '',
+        generation: '',
+        evolution_stage: '',
+        catchRateRange: [0, 255],
+        totalStatsRange: [0, 800],
+        speedRange: [0, 200]
+      };
+    },
+    selectFromPokedex(name) {
+      this.input = name;
+      this.pokedexVisible = false;
     }
   },
   computed: {
@@ -1205,11 +1386,79 @@ export default {
       return this.settings.selectedGens
         .map((selected, index) => selected ? index + 1 : null)
         .filter(index => index !== null);
+    },
+    // 图鉴筛选结果（动态计算）
+    filteredPokedex() {
+      if (!this.pokedexData) return [];
+      
+      return this.pokedexData.filter(p => {
+        // 属性筛选（多选，需要全部包含）
+        if (this.pokedexFilters.types.length > 0) {
+          const hasAllTypes = this.pokedexFilters.types.every(t => p.types.includes(t));
+          if (!hasAllTypes) return false;
+        }
+        
+        // 世代筛选
+        if (this.pokedexFilters.generation && p.generation !== this.pokedexFilters.generation) {
+          return false;
+        }
+        
+        // 进化阶段筛选
+        if (this.pokedexFilters.evolution_stage && p.evolution_stage !== this.pokedexFilters.evolution_stage) {
+          return false;
+        }
+        
+        // 颜色筛选
+        if (this.pokedexFilters.color && p.color !== this.pokedexFilters.color) {
+          return false;
+        }
+        
+        // 体形筛选
+        if (this.pokedexFilters.shape && p.shape !== this.pokedexFilters.shape) {
+          return false;
+        }
+        
+        // 蛋组筛选（多选，需要至少包含一个）
+        if (this.pokedexFilters.egg_groups.length > 0) {
+          const hasAnyEggGroup = this.pokedexFilters.egg_groups.some(eg => p.egg_groups.includes(eg));
+          if (!hasAnyEggGroup) return false;
+        }
+        
+        // 特性筛选
+        if (this.pokedexFilters.ability && !p.abilities.includes(this.pokedexFilters.ability)) {
+          return false;
+        }
+        
+        // 捕获率范围
+        if (p.catch_rate < this.pokedexFilters.catchRateRange[0] || 
+            p.catch_rate > this.pokedexFilters.catchRateRange[1]) {
+          return false;
+        }
+        
+        // 种族值总和范围
+        if (p.stats && p.stats.total) {
+          if (p.stats.total < this.pokedexFilters.totalStatsRange[0] || 
+              p.stats.total > this.pokedexFilters.totalStatsRange[1]) {
+            return false;
+          }
+        }
+        
+        // 速度范围
+        if (p.stats && p.stats.speed !== undefined) {
+          if (p.stats.speed < this.pokedexFilters.speedRange[0] || 
+              p.stats.speed > this.pokedexFilters.speedRange[1]) {
+            return false;
+          }
+        }
+        
+        return true;
+      });
     }
   },
   mounted() {
     this.loadSettings();
     this.loadDarkModePreference();
+    this.loadPokedexData();
     // 清理 localStorage 中的 streakCount，确保页面刷新时重置
     try {
       localStorage.removeItem('streakCount');
@@ -1239,6 +1488,56 @@ export default {
   margin-top: 20px;
   margin-left: 5%;
   margin-right: 5%;
+}
+
+/* 图鉴筛选对话框样式 */
+.pokedex-dialog .el-dialog__body {
+  padding: 15px 20px;
+}
+
+.pokedex-filter {
+  background: #f5f7fa;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.filter-section {
+  margin-bottom: 8px;
+}
+
+.filter-title {
+  font-size: 13px;
+  color: #606266;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.pokedex-results {
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #ebeef5;
+  border-radius: 4px;
+}
+
+.results-list {
+  line-height: 2;
+}
+
+/* 夜间模式适配 */
+body.dark-mode .pokedex-filter {
+  background: #2c2c2c;
+}
+
+body.dark-mode .filter-title {
+  color: #c0c4cc;
+}
+
+body.dark-mode .pokedex-results {
+  background: #1a1a1a;
+  border-color: #4c4c4c;
 }
 
 /* 统计信息容器 */
