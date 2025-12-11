@@ -1,1 +1,5127 @@
-["妙蛙种子", "妙蛙草", "妙蛙花", "小火龙", "火恐龙", "喷火龙", "杰尼龟", "卡咪龟", "水箭龟", "绿毛虫", "铁甲蛹", "巴大蝶", "独角虫", "铁壳蛹", "大针蜂", "波波", "比比鸟", "大比鸟", "小拉达", "拉达", "烈雀", "大嘴雀", "阿柏蛇", "阿柏怪", "皮卡丘", "雷丘", "穿山鼠", "穿山王", "尼多兰", "尼多娜", "尼多后", "尼多朗", "尼多力诺", "尼多王", "皮皮", "皮可西", "六尾", "九尾", "胖丁", "胖可丁", "超音蝠", "大嘴蝠", "走路草", "臭臭花", "霸王花", "派拉斯", "派拉斯特", "毛球", "摩鲁蛾", "地鼠", "三地鼠", "喵喵", "猫老大", "可达鸭", "哥达鸭", "猴怪", "火暴猴", "卡蒂狗", "风速狗", "蚊香蝌蚪", "蚊香君", "蚊香泳士", "凯西", "勇基拉", "胡地", "腕力", "豪力", "怪力", "喇叭芽", "口呆花", "大食花", "玛瑙水母", "毒刺水母", "小拳石", "隆隆石", "隆隆岩", "小火马", "烈焰马", "呆呆兽", "呆壳兽", "小磁怪", "三合一磁怪", "大葱鸭", "嘟嘟", "嘟嘟利", "小海狮", "白海狮", "臭泥", "臭臭泥", "大舌贝", "刺甲贝", "鬼斯", "鬼斯通", "耿鬼", "大岩蛇", "催眠貘", "引梦貘人", "大钳蟹", "巨钳蟹", "霹雳电球", "顽皮雷弹", "蛋蛋", "椰蛋树", "卡拉卡拉", "嘎啦嘎啦", "飞腿郎", "快拳郎", "大舌头", "瓦斯弹", "双弹瓦斯", "独角犀牛", "钻角犀兽", "吉利蛋", "蔓藤怪", "袋兽", "墨海马", "海刺龙", "角金鱼", "金鱼王", "海星星", "宝石海星", "魔墙人偶", "飞天螳螂", "迷唇姐", "电击兽", "鸭嘴火兽", "凯罗斯", "肯泰罗", "鲤鱼王", "暴鲤龙", "拉普拉斯", "百变怪", "伊布", "水伊布", "雷伊布", "火伊布", "多边兽", "菊石兽", "多刺菊石兽", "化石盔", "镰刀盔", "化石翼龙", "卡比兽", "急冻鸟", "闪电鸟", "火焰鸟", "迷你龙", "哈克龙", "快龙", "超梦", "梦幻", "菊草叶", "月桂叶", "大竺葵", "火球鼠", "火岩鼠", "火暴兽", "小锯鳄", "蓝鳄", "大力鳄", "尾立", "大尾立", "咕咕", "猫头夜鹰", "芭瓢虫", "安瓢虫", "圆丝蛛", "阿利多斯", "叉字蝠", "灯笼鱼", "电灯怪", "皮丘", "皮宝宝", "宝宝丁", "波克比", "波克基古", "天然雀", "天然鸟", "咩利羊", "茸茸羊", "电龙", "美丽花", "玛力露", "玛力露丽", "树才怪", "蚊香蛙皇", "毽子草", "毽子花", "毽子棉", "长尾怪手", "向日种子", "向日花怪", "蜻蜻蜓", "乌波", "沼王", "太阳伊布", "月亮伊布", "黑暗鸦", "呆呆王", "梦妖", "未知图腾", "果然翁", "麒麟奇", "榛果球", "佛烈托斯", "土龙弟弟", "天蝎", "大钢蛇", "布鲁", "布鲁皇", "千针鱼", "巨钳螳螂", "壶壶", "赫拉克罗斯", "狃拉", "熊宝宝", "圈圈熊", "熔岩虫", "熔岩蜗牛", "小山猪", "长毛猪", "太阳珊瑚", "铁炮鱼", "章鱼桶", "信使鸟", "巨翅飞鱼", "盔甲鸟", "戴鲁比", "黑鲁加", "刺龙王", "小小象", "顿甲", "多边兽Ⅱ", "惊角鹿", "图图犬", "无畏小子", "战舞郎", "迷唇娃", "电击怪", "鸭嘴宝宝", "大奶罐", "幸福蛋", "雷公", "炎帝", "水君", "幼基拉斯", "沙基拉斯", "班基拉斯", "洛奇亚", "凤王", "时拉比", "木守宫", "森林蜥蜴", "蜥蜴王", "火稚鸡", "力壮鸡", "火焰鸡", "水跃鱼", "沼跃鱼", "巨沼怪", "土狼犬", "大狼犬", "蛇纹熊", "直冲熊", "刺尾虫", "甲壳茧", "狩猎凤蝶", "盾甲茧", "毒粉蛾", "莲叶童子", "莲帽小童", "乐天河童", "橡实果", "长鼻叶", "狡猾天狗", "傲骨燕", "大王燕", "长翅鸥", "大嘴鸥", "拉鲁拉丝", "奇鲁莉安", "沙奈朵", "溜溜糖球", "雨翅蛾", "蘑蘑菇", "斗笠菇", "懒人獭", "过动猿", "请假王", "土居忍士", "铁面忍者", "脱壳忍者", "咕妞妞", "吼爆弹", "爆音怪", "幕下力士", "铁掌力士", "露力丽", "朝北鼻", "向尾喵", "优雅猫", "勾魂眼", "大嘴娃", "可可多拉", "可多拉", "波士可多拉", "玛沙那", "恰雷姆", "落雷兽", "雷电兽", "正电拍拍", "负电拍拍", "电萤虫", "甜甜萤", "毒蔷薇", "溶食兽", "吞食兽", "利牙鱼", "巨牙鲨", "吼吼鲸", "吼鲸王", "呆火驼", "喷火驼", "煤炭龟", "跳跳猪", "噗噗猪", "晃晃斑", "大颚蚁", "超音波幼虫", "沙漠蜻蜓", "刺球仙人掌", "梦歌仙人掌", "青绵鸟", "七夕青鸟", "猫鼬斩", "饭匙蛇", "月石", "太阳岩", "泥泥鳅", "鲶鱼王", "龙虾小兵", "铁螯龙虾", "天秤偶", "念力土偶", "触手百合", "摇篮百合", "太古羽虫", "太古盔甲", "丑丑鱼", "美纳斯", "飘浮泡泡", "变隐龙", "怨影娃娃", "诅咒娃娃", "夜巡灵", "彷徨夜灵", "热带龙", "风铃铃", "阿勃梭鲁", "小果然", "雪童子", "冰鬼护", "海豹球", "海魔狮", "帝牙海狮", "珍珠贝", "猎斑鱼", "樱花鱼", "古空棘鱼", "爱心鱼", "宝贝龙", "甲壳龙", "暴飞龙", "铁哑铃", "金属怪", "巨金怪", "雷吉洛克", "雷吉艾斯", "雷吉斯奇鲁", "拉帝亚斯", "拉帝欧斯", "盖欧卡", "固拉多", "烈空坐", "基拉祈", "代欧奇希斯", "草苗龟", "树林龟", "土台龟", "小火焰猴", "猛火猴", "烈焰猴", "波加曼", "波皇子", "帝王拿波", "姆克儿", "姆克鸟", "姆克鹰", "大牙狸", "大尾狸", "圆法师", "音箱蟀", "小猫怪", "勒克猫", "伦琴猫", "含羞苞", "罗丝雷朵", "头盖龙", "战槌龙", "盾甲龙", "护城龙", "结草儿", "结草贵妇", "绅士蛾", "三蜜蜂", "蜂女王", "帕奇利兹", "泳圈鼬", "浮潜鼬", "樱花宝", "樱花儿", "无壳海兔", "海兔兽", "双尾怪手", "飘飘球", "随风球", "卷卷耳", "长耳兔", "梦妖魔", "乌鸦头头", "魅力喵", "东施喵", "铃铛响", "臭鼬噗", "坦克臭鼬", "铜镜怪", "青铜钟", "盆才怪", "魔尼尼", "小福蛋", "聒噪鸟", "花岩怪", "圆陆鲨", "尖牙陆鲨", "烈咬陆鲨", "小卡比兽", "利欧路", "路卡利欧", "沙河马", "河马兽", "钳尾蝎", "龙王蝎", "不良蛙", "毒骷蛙", "尖牙笼", "荧光鱼", "霓虹鱼", "小球飞鱼", "雪笠怪", "暴雪王", "玛狃拉", "自爆磁怪", "大舌舔", "超甲狂犀", "巨蔓藤", "电击魔兽", "鸭嘴炎兽", "波克基斯", "远古巨蜓", "叶伊布", "冰伊布", "天蝎王", "象牙猪", "多边兽Z", "艾路雷朵", "大朝北鼻", "黑夜魔灵", "雪妖女", "洛托姆", "由克希", "艾姆利多", "亚克诺姆", "帝牙卢卡", "帕路奇亚", "席多蓝恩", "雷吉奇卡斯", "骑拉帝纳", "克雷色利亚", "霏欧纳", "玛纳霏", "达克莱伊", "谢米", "阿尔宙斯", "比克提尼", "藤藤蛇", "青藤蛇", "君主蛇", "暖暖猪", "炒炒猪", "炎武王", "水水獭", "双刃丸", "大剑鬼", "探探鼠", "步哨鼠", "小约克", "哈约克", "长毛狗", "扒手猫", "酷豹", "花椰猴", "花椰猿", "爆香猴", "爆香猿", "冷水猴", "冷水猿", "食梦梦", "梦梦蚀", "豆豆鸽", "咕咕鸽", "高傲雉鸡", "斑斑马", "雷电斑马", "石丸子", "地幔岩", "庞岩怪", "滚滚蝙蝠", "心蝙蝠", "螺钉地鼠", "龙头地鼠", "差不多娃娃", "搬运小匠", "铁骨土人", "修建老匠", "圆蝌蚪", "蓝蟾蜍", "蟾蜍王", "投摔鬼", "打击鬼", "虫宝包", "宝包茧", "保姆虫", "百足蜈蚣", "车轮球", "蜈蚣王", "木棉球", "风妖精", "百合根娃娃", "裙儿小姐", "野蛮鲈鱼", "黑眼鳄", "混混鳄", "流氓鳄", "火红不倒翁", "达摩狒狒", "沙铃仙人掌", "石居蟹", "岩殿居蟹", "滑滑小子", "头巾混混", "象征鸟", "哭哭面具", "迭失棺", "原盖海龟", "肋骨海龟", "始祖小鸟", "始祖大鸟", "破破袋", "灰尘山", "索罗亚", "索罗亚克", "泡沫栗鼠", "奇诺栗鼠", "哥德宝宝", "哥德小童", "哥德小姐", "单卵细胞球", "双卵细胞球", "人造细胞卵", "鸭宝宝", "舞天鹅", "迷你冰", "多多冰", "双倍多多冰", "四季鹿", "萌芽鹿", "电飞鼠", "盖盖虫", "骑士蜗牛", "哎呀球菇", "败露球菇", "轻飘飘", "胖嘟嘟", "保姆曼波", "电电虫", "电蜘蛛", "种子铁球", "坚果哑铃", "齿轮儿", "齿轮组", "齿轮怪", "麻麻小鱼", "麻麻鳗", "麻麻鳗鱼王", "小灰怪", "大宇怪", "烛光灵", "灯火幽灵", "水晶灯火灵", "牙牙", "斧牙龙", "双斧战龙", "喷嚏熊", "冻原熊", "几何雪花", "小嘴蜗", "敏捷虫", "泥巴鱼", "功夫鼬", "师父鼬", "赤面龙", "泥偶小人", "泥偶巨人", "驹刀小兵", "劈斩司令", "爆炸头水牛", "毛头小鹰", "勇士雄鹰", "秃鹰丫头", "秃鹰娜", "熔蚁兽", "铁蚁", "单首龙", "双首暴龙", "三首恶龙", "燃烧虫", "火神蛾", "勾帕路翁", "代拉基翁", "毕力吉翁", "龙卷云", "雷电云", "莱希拉姆", "捷克罗姆", "土地云", "酋雷姆", "凯路迪欧", "美洛耶塔", "盖诺赛克特", "哈力栗", "胖胖哈力", "布里卡隆", "火狐狸", "长尾火狐", "妖火红狐", "呱呱泡蛙", "呱头蛙", "甲贺忍蛙", "掘掘兔", "掘地兔", "小箭雀", "火箭雀", "烈箭鹰", "粉蝶虫", "粉蝶蛹", "彩粉蝶", "小狮狮", "火炎狮", "花蓓蓓", "花叶蒂", "花洁夫人", "坐骑小羊", "坐骑山羊", "顽皮熊猫", "霸道熊猫", "多丽米亚", "妙喵", "超能妙喵", "独剑鞘", "双剑鞘", "坚盾剑怪", "粉香香", "芳香精", "绵绵泡芙", "胖甜妮", "好啦鱿", "乌贼王", "龟脚脚", "龟足巨铠", "垃垃藻", "毒藻龙", "铁臂枪虾", "钢炮臂虾", "伞电蜥", "光电伞蜥", "宝宝暴龙", "怪颚龙", "冰雪龙", "冰雪巨龙", "仙子伊布", "摔角鹰人", "咚咚鼠", "小碎钻", "黏黏宝", "黏美儿", "黏美龙", "钥圈儿", "小木灵", "朽木妖", "南瓜精", "南瓜怪人", "冰宝", "冰岩怪", "嗡蝠", "音波龙", "哲尔尼亚斯", "伊裴尔塔尔", "基格尔德-50%形态", "蒂安希", "胡帕", "波尔凯尼恩", "木木枭", "投羽枭", "狙射树枭", "火斑喵", "炎热喵", "炽焰咆哮虎", "球球海狮", "花漾海狮", "西狮海壬", "小笃儿", "喇叭啄鸟", "铳嘴大鸟", "猫鼬少", "猫鼬探长", "强颚鸡母虫", "虫电宝", "锹农炮虫", "好胜蟹", "好胜毛蟹", "花舞鸟", "萌虻", "蝶结萌虻", "岩狗狗", "鬃岩狼人", "弱丁鱼", "好坏星", "超坏星", "泥驴仔", "重泥挽马", "滴蛛", "滴蛛霸", "伪螳草", "兰螳花", "睡睡菇", "灯罩夜菇", "夜盗火蜥", "焰后蜥", "童偶熊", "穿着熊", "甜竹竹", "甜舞妮", "甜冷美后", "花疗环环", "智挥猩", "投掷猴", "胆小虫", "具甲武者", "沙丘娃", "噬沙堡爷", "拳海参", "属性：空", "银伴战兽", "小陨星", "树枕尾熊", "爆焰龟兽", "托戈德玛尔", "谜拟丘", "磨牙彩皮鱼", "老翁龙", "破破舵轮", "心鳞宝", "鳞甲龙", "杖尾鳞甲龙", "卡璞・鸣鸣", "卡璞・蝶蝶", "卡璞・哞哞", "卡璞・鳍鳍", "科斯莫古", "科斯莫姆", "索尔迦雷欧", "露奈雅拉", "虚吾伊德", "爆肌蚊", "费洛美螂", "电束木", "铁火辉夜", "纸御剑", "恶食大王", "奈克洛兹玛", "玛机雅娜", "玛夏多", "毒贝比", "四颚针龙", "垒磊石", "砰头小丑", "捷拉奥拉", "美录坦", "美录梅塔", "敲音猴", "啪咚猴", "轰擂金刚猩", "炎兔儿", "腾蹴小将", "闪焰王牌", "泪眼蜥", "变涩蜥", "千面避役", "贪心栗鼠", "藏饱栗鼠", "稚山雀", "蓝鸦", "钢铠鸦", "索侦虫", "天罩虫", "以欧路普", "狡小狐", "猾大狐", "幼棉棉", "白蓬蓬", "毛辫羊", "毛毛角羊", "咬咬龟", "暴噬龟", "来电汪", "逐电犬", "小炭仔", "大炭车", "巨炭山", "啃果虫", "苹裹龙", "丰蜜龙", "沙包蛇", "沙螺蟒", "古月鸟", "刺梭鱼", "戽斗尖梭", "电音婴", "颤弦蝾螈", "烧火蚣", "焚焰蚣", "拳拳蛸", "八爪武师", "来悲茶", "怖思壶", "迷布莉姆", "提布莉姆", "布莉姆温", "捣蛋小妖", "诈唬魔", "长毛巨魔", "堵拦熊", "喵头目", "魔灵珊瑚", "葱游兵", "踏冰人偶", "迭失板", "小仙奶", "霜奶仙", "列阵兵", "啪嚓海胆", "雪吞虫", "雪绒蛾", "巨石丁", "冰砌鹅", "爱管侍", "莫鲁贝可", "铜象", "大王铜象", "雷鸟龙", "雷鸟海兽", "鳃鱼龙", "鳃鱼海兽", "铝钢龙", "多龙梅西亚", "多龙奇", "多龙巴鲁托", "苍响", "藏玛然特", "无极汰那", "熊徒弟", "武道熊师", "萨戮德", "雷吉艾勒奇", "雷吉铎拉戈", "雪暴马", "灵幽马", "蕾冠王", "诡角鹿", "劈斧螳螂", "月月熊", "幽尾玄鱼", "大狃拉", "万针鱼", "眷恋云", "新叶喵", "蒂蕾喵", "魔幻假面喵", "呆火鳄", "炙烫鳄", "骨纹巨声鳄", "润水鸭", "涌跃鸭", "狂欢浪舞鸭", "爱吃豚", "飘香豚", "团珠蛛", "操陷蛛", "豆蟋蟀", "烈腿蝗", "布拨", "布土拨", "巴布土拨", "一对鼠", "一家鼠", "狗仔包", "麻花犬", "迷你芙", "奥利纽", "奥利瓦", "怒鹦哥", "盐石宝", "盐石垒", "盐石巨灵", "炭小侍", "红莲铠骑", "苍炎刃鬼", "光蚪仔", "电肚蛙", "电海燕", "大电海燕", "偶叫獒", "獒教父", "滋汁鼹", "涂标客", "纳噬草", "怖纳噬草", "原野水母", "陆地水母", "毛崖蟹", "热辣娃", "狠辣椒", "虫滚泥", "虫甲圣", "飘飘雏", "超能艳鸵", "小锻匠", "巧锻匠", "巨锻匠", "海地鼠", "三海地鼠", "下石鸟", "波普海豚", "海豚侠", "噗隆隆", "普隆隆姆", "摩托蜥", "拖拖蚓", "晶光芽", "晶光花", "墓仔狗", "墓扬犬", "缠红鹤", "走鲸", "浩大鲸", "轻身鳕", "吃吼霸", "米立龙", "弃世猴", "土王", "奇麒麟", "土龙节节", "仆刀将军", "雄伟牙", "吼叫尾", "猛恶菇", "振翼发", "爬地翅", "沙铁皮", "铁辙迹", "铁包袱", "铁臂膀", "铁脖颈", "铁毒蛾", "铁荆棘", "凉脊龙", "冻脊龙", "戟脊龙", "索财灵", "赛富豪", "古简蜗", "古剑豹", "古鼎鹿", "古玉鱼", "轰鸣月", "铁武者", "故勒顿", "密勒顿", "波荡水", "铁斑叶", "裹蜜虫", "斯魔茶", "来悲粗茶", "够赞狗", "愿增猿", "吉雉鸡", "厄诡椪", "铝钢桥龙", "蜜集大蛇", "破空焰", "猛雷鼓", "铁磐岩", "铁头壳", "太乐巴戈斯", "桃歹郎"]
+[
+  {
+    "name": "妙蛙种子",
+    "pinyin": "MiaoWaZhongZi",
+    "pinyinInitials": "MWZZ"
+  },
+  {
+    "name": "妙蛙草",
+    "pinyin": "MiaoWaCao",
+    "pinyinInitials": "MWC"
+  },
+  {
+    "name": "妙蛙花",
+    "pinyin": "MiaoWaHua",
+    "pinyinInitials": "MWH"
+  },
+  {
+    "name": "小火龙",
+    "pinyin": "XiaoHuoLong",
+    "pinyinInitials": "XHL"
+  },
+  {
+    "name": "火恐龙",
+    "pinyin": "HuoKongLong",
+    "pinyinInitials": "HKL"
+  },
+  {
+    "name": "喷火龙",
+    "pinyin": "PenHuoLong",
+    "pinyinInitials": "PHL"
+  },
+  {
+    "name": "杰尼龟",
+    "pinyin": "JieNiGui",
+    "pinyinInitials": "JNG"
+  },
+  {
+    "name": "卡咪龟",
+    "pinyin": "KaMiGui",
+    "pinyinInitials": "KMG"
+  },
+  {
+    "name": "水箭龟",
+    "pinyin": "ShuiJianGui",
+    "pinyinInitials": "SJG"
+  },
+  {
+    "name": "绿毛虫",
+    "pinyin": "LvMaoChong",
+    "pinyinInitials": "LMC"
+  },
+  {
+    "name": "铁甲蛹",
+    "pinyin": "TieJiaYong",
+    "pinyinInitials": "TJY"
+  },
+  {
+    "name": "巴大蝶",
+    "pinyin": "BaDaDie",
+    "pinyinInitials": "BDD"
+  },
+  {
+    "name": "独角虫",
+    "pinyin": "DuJiaoChong",
+    "pinyinInitials": "DJC"
+  },
+  {
+    "name": "铁壳蛹",
+    "pinyin": "TieKeYong",
+    "pinyinInitials": "TKY"
+  },
+  {
+    "name": "大针蜂",
+    "pinyin": "DaZhenFeng",
+    "pinyinInitials": "DZF"
+  },
+  {
+    "name": "波波",
+    "pinyin": "BoBo",
+    "pinyinInitials": "BB"
+  },
+  {
+    "name": "比比鸟",
+    "pinyin": "BiBiNiao",
+    "pinyinInitials": "BBN"
+  },
+  {
+    "name": "大比鸟",
+    "pinyin": "DaBiNiao",
+    "pinyinInitials": "DBN"
+  },
+  {
+    "name": "小拉达",
+    "pinyin": "XiaoLaDa",
+    "pinyinInitials": "XLD"
+  },
+  {
+    "name": "拉达",
+    "pinyin": "LaDa",
+    "pinyinInitials": "LD"
+  },
+  {
+    "name": "烈雀",
+    "pinyin": "LieQue",
+    "pinyinInitials": "LQ"
+  },
+  {
+    "name": "大嘴雀",
+    "pinyin": "DaZuiQue",
+    "pinyinInitials": "DZQ"
+  },
+  {
+    "name": "阿柏蛇",
+    "pinyin": "ABaiShe",
+    "pinyinInitials": "ABS"
+  },
+  {
+    "name": "阿柏怪",
+    "pinyin": "ABaiGuai",
+    "pinyinInitials": "ABG"
+  },
+  {
+    "name": "皮卡丘",
+    "pinyin": "PiKaQiu",
+    "pinyinInitials": "PKQ"
+  },
+  {
+    "name": "雷丘",
+    "pinyin": "LeiQiu",
+    "pinyinInitials": "LQ"
+  },
+  {
+    "name": "穿山鼠",
+    "pinyin": "ChuanShanShu",
+    "pinyinInitials": "CSS"
+  },
+  {
+    "name": "穿山王",
+    "pinyin": "ChuanShanWang",
+    "pinyinInitials": "CSW"
+  },
+  {
+    "name": "尼多兰",
+    "pinyin": "NiDuoLan",
+    "pinyinInitials": "NDL"
+  },
+  {
+    "name": "尼多娜",
+    "pinyin": "NiDuoNa",
+    "pinyinInitials": "NDN"
+  },
+  {
+    "name": "尼多后",
+    "pinyin": "NiDuoHou",
+    "pinyinInitials": "NDH"
+  },
+  {
+    "name": "尼多朗",
+    "pinyin": "NiDuoLang",
+    "pinyinInitials": "NDL"
+  },
+  {
+    "name": "尼多力诺",
+    "pinyin": "NiDuoLiNuo",
+    "pinyinInitials": "NDLN"
+  },
+  {
+    "name": "尼多王",
+    "pinyin": "NiDuoWang",
+    "pinyinInitials": "NDW"
+  },
+  {
+    "name": "皮皮",
+    "pinyin": "PiPi",
+    "pinyinInitials": "PP"
+  },
+  {
+    "name": "皮可西",
+    "pinyin": "PiKeXi",
+    "pinyinInitials": "PKX"
+  },
+  {
+    "name": "六尾",
+    "pinyin": "LiuWei",
+    "pinyinInitials": "LW"
+  },
+  {
+    "name": "九尾",
+    "pinyin": "JiuWei",
+    "pinyinInitials": "JW"
+  },
+  {
+    "name": "胖丁",
+    "pinyin": "PangDing",
+    "pinyinInitials": "PD"
+  },
+  {
+    "name": "胖可丁",
+    "pinyin": "PangKeDing",
+    "pinyinInitials": "PKD"
+  },
+  {
+    "name": "超音蝠",
+    "pinyin": "ChaoYinFu",
+    "pinyinInitials": "CYF"
+  },
+  {
+    "name": "大嘴蝠",
+    "pinyin": "DaZuiFu",
+    "pinyinInitials": "DZF"
+  },
+  {
+    "name": "走路草",
+    "pinyin": "ZouLuCao",
+    "pinyinInitials": "ZLC"
+  },
+  {
+    "name": "臭臭花",
+    "pinyin": "ChouChouHua",
+    "pinyinInitials": "CCH"
+  },
+  {
+    "name": "霸王花",
+    "pinyin": "BaWangHua",
+    "pinyinInitials": "BWH"
+  },
+  {
+    "name": "派拉斯",
+    "pinyin": "PaiLaSi",
+    "pinyinInitials": "PLS"
+  },
+  {
+    "name": "派拉斯特",
+    "pinyin": "PaiLaSiTe",
+    "pinyinInitials": "PLST"
+  },
+  {
+    "name": "毛球",
+    "pinyin": "MaoQiu",
+    "pinyinInitials": "MQ"
+  },
+  {
+    "name": "摩鲁蛾",
+    "pinyin": "MoLuE",
+    "pinyinInitials": "MLE"
+  },
+  {
+    "name": "地鼠",
+    "pinyin": "DiShu",
+    "pinyinInitials": "DS"
+  },
+  {
+    "name": "三地鼠",
+    "pinyin": "SanDiShu",
+    "pinyinInitials": "SDS"
+  },
+  {
+    "name": "喵喵",
+    "pinyin": "MiaoMiao",
+    "pinyinInitials": "MM"
+  },
+  {
+    "name": "猫老大",
+    "pinyin": "MaoLaoDa",
+    "pinyinInitials": "MLD"
+  },
+  {
+    "name": "可达鸭",
+    "pinyin": "KeDaYa",
+    "pinyinInitials": "KDY"
+  },
+  {
+    "name": "哥达鸭",
+    "pinyin": "GeDaYa",
+    "pinyinInitials": "GDY"
+  },
+  {
+    "name": "猴怪",
+    "pinyin": "HouGuai",
+    "pinyinInitials": "HG"
+  },
+  {
+    "name": "火暴猴",
+    "pinyin": "HuoBaoHou",
+    "pinyinInitials": "HBH"
+  },
+  {
+    "name": "卡蒂狗",
+    "pinyin": "KaDiGou",
+    "pinyinInitials": "KDG"
+  },
+  {
+    "name": "风速狗",
+    "pinyin": "FengSuGou",
+    "pinyinInitials": "FSG"
+  },
+  {
+    "name": "蚊香蝌蚪",
+    "pinyin": "WenXiangKeDou",
+    "pinyinInitials": "WXKD"
+  },
+  {
+    "name": "蚊香君",
+    "pinyin": "WenXiangJun",
+    "pinyinInitials": "WXJ"
+  },
+  {
+    "name": "蚊香泳士",
+    "pinyin": "WenXiangYongShi",
+    "pinyinInitials": "WXYS"
+  },
+  {
+    "name": "凯西",
+    "pinyin": "KaiXi",
+    "pinyinInitials": "KX"
+  },
+  {
+    "name": "勇基拉",
+    "pinyin": "YongJiLa",
+    "pinyinInitials": "YJL"
+  },
+  {
+    "name": "胡地",
+    "pinyin": "HuDi",
+    "pinyinInitials": "HD"
+  },
+  {
+    "name": "腕力",
+    "pinyin": "WanLi",
+    "pinyinInitials": "WL"
+  },
+  {
+    "name": "豪力",
+    "pinyin": "HaoLi",
+    "pinyinInitials": "HL"
+  },
+  {
+    "name": "怪力",
+    "pinyin": "GuaiLi",
+    "pinyinInitials": "GL"
+  },
+  {
+    "name": "喇叭芽",
+    "pinyin": "LaBaYa",
+    "pinyinInitials": "LBY"
+  },
+  {
+    "name": "口呆花",
+    "pinyin": "KouDaiHua",
+    "pinyinInitials": "KDH"
+  },
+  {
+    "name": "大食花",
+    "pinyin": "DaShiHua",
+    "pinyinInitials": "DSH"
+  },
+  {
+    "name": "玛瑙水母",
+    "pinyin": "MaNaoShuiMu",
+    "pinyinInitials": "MNSM"
+  },
+  {
+    "name": "毒刺水母",
+    "pinyin": "DuCiShuiMu",
+    "pinyinInitials": "DCSM"
+  },
+  {
+    "name": "小拳石",
+    "pinyin": "XiaoQuanShi",
+    "pinyinInitials": "XQS"
+  },
+  {
+    "name": "隆隆石",
+    "pinyin": "LongLongShi",
+    "pinyinInitials": "LLS"
+  },
+  {
+    "name": "隆隆岩",
+    "pinyin": "LongLongYan",
+    "pinyinInitials": "LLY"
+  },
+  {
+    "name": "小火马",
+    "pinyin": "XiaoHuoMa",
+    "pinyinInitials": "XHM"
+  },
+  {
+    "name": "烈焰马",
+    "pinyin": "LieYanMa",
+    "pinyinInitials": "LYM"
+  },
+  {
+    "name": "呆呆兽",
+    "pinyin": "DaiDaiShou",
+    "pinyinInitials": "DDS"
+  },
+  {
+    "name": "呆壳兽",
+    "pinyin": "DaiKeShou",
+    "pinyinInitials": "DKS"
+  },
+  {
+    "name": "小磁怪",
+    "pinyin": "XiaoCiGuai",
+    "pinyinInitials": "XCG"
+  },
+  {
+    "name": "三合一磁怪",
+    "pinyin": "SanHeYiCiGuai",
+    "pinyinInitials": "SHYCG"
+  },
+  {
+    "name": "大葱鸭",
+    "pinyin": "DaCongYa",
+    "pinyinInitials": "DCY"
+  },
+  {
+    "name": "嘟嘟",
+    "pinyin": "DuDu",
+    "pinyinInitials": "DD"
+  },
+  {
+    "name": "嘟嘟利",
+    "pinyin": "DuDuLi",
+    "pinyinInitials": "DDL"
+  },
+  {
+    "name": "小海狮",
+    "pinyin": "XiaoHaiShi",
+    "pinyinInitials": "XHS"
+  },
+  {
+    "name": "白海狮",
+    "pinyin": "BaiHaiShi",
+    "pinyinInitials": "BHS"
+  },
+  {
+    "name": "臭泥",
+    "pinyin": "ChouNi",
+    "pinyinInitials": "CN"
+  },
+  {
+    "name": "臭臭泥",
+    "pinyin": "ChouChouNi",
+    "pinyinInitials": "CCN"
+  },
+  {
+    "name": "大舌贝",
+    "pinyin": "DaSheBei",
+    "pinyinInitials": "DSB"
+  },
+  {
+    "name": "刺甲贝",
+    "pinyin": "CiJiaBei",
+    "pinyinInitials": "CJB"
+  },
+  {
+    "name": "鬼斯",
+    "pinyin": "GuiSi",
+    "pinyinInitials": "GS"
+  },
+  {
+    "name": "鬼斯通",
+    "pinyin": "GuiSiTong",
+    "pinyinInitials": "GST"
+  },
+  {
+    "name": "耿鬼",
+    "pinyin": "GengGui",
+    "pinyinInitials": "GG"
+  },
+  {
+    "name": "大岩蛇",
+    "pinyin": "DaYanShe",
+    "pinyinInitials": "DYS"
+  },
+  {
+    "name": "催眠貘",
+    "pinyin": "CuiMianMo",
+    "pinyinInitials": "CMM"
+  },
+  {
+    "name": "引梦貘人",
+    "pinyin": "YinMengMoRen",
+    "pinyinInitials": "YMMR"
+  },
+  {
+    "name": "大钳蟹",
+    "pinyin": "DaQianXie",
+    "pinyinInitials": "DQX"
+  },
+  {
+    "name": "巨钳蟹",
+    "pinyin": "JuQianXie",
+    "pinyinInitials": "JQX"
+  },
+  {
+    "name": "霹雳电球",
+    "pinyin": "PiLiDianQiu",
+    "pinyinInitials": "PLDQ"
+  },
+  {
+    "name": "顽皮雷弹",
+    "pinyin": "WanPiLeiDan",
+    "pinyinInitials": "WPLD"
+  },
+  {
+    "name": "蛋蛋",
+    "pinyin": "DanDan",
+    "pinyinInitials": "DD"
+  },
+  {
+    "name": "椰蛋树",
+    "pinyin": "YeDanShu",
+    "pinyinInitials": "YDS"
+  },
+  {
+    "name": "卡拉卡拉",
+    "pinyin": "KaLaKaLa",
+    "pinyinInitials": "KLKL"
+  },
+  {
+    "name": "嘎啦嘎啦",
+    "pinyin": "GaLaGaLa",
+    "pinyinInitials": "GLGL"
+  },
+  {
+    "name": "飞腿郎",
+    "pinyin": "FeiTuiLang",
+    "pinyinInitials": "FTL"
+  },
+  {
+    "name": "快拳郎",
+    "pinyin": "KuaiQuanLang",
+    "pinyinInitials": "KQL"
+  },
+  {
+    "name": "大舌头",
+    "pinyin": "DaSheTou",
+    "pinyinInitials": "DST"
+  },
+  {
+    "name": "瓦斯弹",
+    "pinyin": "WaSiDan",
+    "pinyinInitials": "WSD"
+  },
+  {
+    "name": "双弹瓦斯",
+    "pinyin": "ShuangDanWaSi",
+    "pinyinInitials": "SDWS"
+  },
+  {
+    "name": "独角犀牛",
+    "pinyin": "DuJiaoXiNiu",
+    "pinyinInitials": "DJXN"
+  },
+  {
+    "name": "钻角犀兽",
+    "pinyin": "ZuanJiaoXiShou",
+    "pinyinInitials": "ZJXS"
+  },
+  {
+    "name": "吉利蛋",
+    "pinyin": "JiLiDan",
+    "pinyinInitials": "JLD"
+  },
+  {
+    "name": "蔓藤怪",
+    "pinyin": "ManTengGuai",
+    "pinyinInitials": "MTG"
+  },
+  {
+    "name": "袋兽",
+    "pinyin": "DaiShou",
+    "pinyinInitials": "DS"
+  },
+  {
+    "name": "墨海马",
+    "pinyin": "MoHaiMa",
+    "pinyinInitials": "MHM"
+  },
+  {
+    "name": "海刺龙",
+    "pinyin": "HaiCiLong",
+    "pinyinInitials": "HCL"
+  },
+  {
+    "name": "角金鱼",
+    "pinyin": "JiaoJinYu",
+    "pinyinInitials": "JJY"
+  },
+  {
+    "name": "金鱼王",
+    "pinyin": "JinYuWang",
+    "pinyinInitials": "JYW"
+  },
+  {
+    "name": "海星星",
+    "pinyin": "HaiXingXing",
+    "pinyinInitials": "HXX"
+  },
+  {
+    "name": "宝石海星",
+    "pinyin": "BaoShiHaiXing",
+    "pinyinInitials": "BSHX"
+  },
+  {
+    "name": "魔墙人偶",
+    "pinyin": "MoQiangRenOu",
+    "pinyinInitials": "MQRO"
+  },
+  {
+    "name": "飞天螳螂",
+    "pinyin": "FeiTianTangLang",
+    "pinyinInitials": "FTTL"
+  },
+  {
+    "name": "迷唇姐",
+    "pinyin": "MiChunJie",
+    "pinyinInitials": "MCJ"
+  },
+  {
+    "name": "电击兽",
+    "pinyin": "DianJiShou",
+    "pinyinInitials": "DJS"
+  },
+  {
+    "name": "鸭嘴火兽",
+    "pinyin": "YaZuiHuoShou",
+    "pinyinInitials": "YZHS"
+  },
+  {
+    "name": "凯罗斯",
+    "pinyin": "KaiLuoSi",
+    "pinyinInitials": "KLS"
+  },
+  {
+    "name": "肯泰罗",
+    "pinyin": "KenTaiLuo",
+    "pinyinInitials": "KTL"
+  },
+  {
+    "name": "鲤鱼王",
+    "pinyin": "LiYuWang",
+    "pinyinInitials": "LYW"
+  },
+  {
+    "name": "暴鲤龙",
+    "pinyin": "BaoLiLong",
+    "pinyinInitials": "BLL"
+  },
+  {
+    "name": "拉普拉斯",
+    "pinyin": "LaPuLaSi",
+    "pinyinInitials": "LPLS"
+  },
+  {
+    "name": "百变怪",
+    "pinyin": "BaiBianGuai",
+    "pinyinInitials": "BBG"
+  },
+  {
+    "name": "伊布",
+    "pinyin": "YiBu",
+    "pinyinInitials": "YB"
+  },
+  {
+    "name": "水伊布",
+    "pinyin": "ShuiYiBu",
+    "pinyinInitials": "SYB"
+  },
+  {
+    "name": "雷伊布",
+    "pinyin": "LeiYiBu",
+    "pinyinInitials": "LYB"
+  },
+  {
+    "name": "火伊布",
+    "pinyin": "HuoYiBu",
+    "pinyinInitials": "HYB"
+  },
+  {
+    "name": "多边兽",
+    "pinyin": "DuoBianShou",
+    "pinyinInitials": "DBS"
+  },
+  {
+    "name": "菊石兽",
+    "pinyin": "JuShiShou",
+    "pinyinInitials": "JSS"
+  },
+  {
+    "name": "多刺菊石兽",
+    "pinyin": "DuoCiJuShiShou",
+    "pinyinInitials": "DCJSS"
+  },
+  {
+    "name": "化石盔",
+    "pinyin": "HuaShiKui",
+    "pinyinInitials": "HSK"
+  },
+  {
+    "name": "镰刀盔",
+    "pinyin": "LianDaoKui",
+    "pinyinInitials": "LDK"
+  },
+  {
+    "name": "化石翼龙",
+    "pinyin": "HuaShiYiLong",
+    "pinyinInitials": "HSYL"
+  },
+  {
+    "name": "卡比兽",
+    "pinyin": "KaBiShou",
+    "pinyinInitials": "KBS"
+  },
+  {
+    "name": "急冻鸟",
+    "pinyin": "JiDongNiao",
+    "pinyinInitials": "JDN"
+  },
+  {
+    "name": "闪电鸟",
+    "pinyin": "ShanDianNiao",
+    "pinyinInitials": "SDN"
+  },
+  {
+    "name": "火焰鸟",
+    "pinyin": "HuoYanNiao",
+    "pinyinInitials": "HYN"
+  },
+  {
+    "name": "迷你龙",
+    "pinyin": "MiNiLong",
+    "pinyinInitials": "MNL"
+  },
+  {
+    "name": "哈克龙",
+    "pinyin": "HaKeLong",
+    "pinyinInitials": "HKL"
+  },
+  {
+    "name": "快龙",
+    "pinyin": "KuaiLong",
+    "pinyinInitials": "KL"
+  },
+  {
+    "name": "超梦",
+    "pinyin": "ChaoMeng",
+    "pinyinInitials": "CM"
+  },
+  {
+    "name": "梦幻",
+    "pinyin": "MengHuan",
+    "pinyinInitials": "MH"
+  },
+  {
+    "name": "菊草叶",
+    "pinyin": "JuCaoYe",
+    "pinyinInitials": "JCY"
+  },
+  {
+    "name": "月桂叶",
+    "pinyin": "YueGuiYe",
+    "pinyinInitials": "YGY"
+  },
+  {
+    "name": "大竺葵",
+    "pinyin": "DaZhuKui",
+    "pinyinInitials": "DZK"
+  },
+  {
+    "name": "火球鼠",
+    "pinyin": "HuoQiuShu",
+    "pinyinInitials": "HQS"
+  },
+  {
+    "name": "火岩鼠",
+    "pinyin": "HuoYanShu",
+    "pinyinInitials": "HYS"
+  },
+  {
+    "name": "火暴兽",
+    "pinyin": "HuoBaoShou",
+    "pinyinInitials": "HBS"
+  },
+  {
+    "name": "小锯鳄",
+    "pinyin": "XiaoJuE",
+    "pinyinInitials": "XJE"
+  },
+  {
+    "name": "蓝鳄",
+    "pinyin": "LanE",
+    "pinyinInitials": "LE"
+  },
+  {
+    "name": "大力鳄",
+    "pinyin": "DaLiE",
+    "pinyinInitials": "DLE"
+  },
+  {
+    "name": "尾立",
+    "pinyin": "WeiLi",
+    "pinyinInitials": "WL"
+  },
+  {
+    "name": "大尾立",
+    "pinyin": "DaWeiLi",
+    "pinyinInitials": "DWL"
+  },
+  {
+    "name": "咕咕",
+    "pinyin": "GuGu",
+    "pinyinInitials": "GG"
+  },
+  {
+    "name": "猫头夜鹰",
+    "pinyin": "MaoTouYeYing",
+    "pinyinInitials": "MTYY"
+  },
+  {
+    "name": "芭瓢虫",
+    "pinyin": "BaPiaoChong",
+    "pinyinInitials": "BPC"
+  },
+  {
+    "name": "安瓢虫",
+    "pinyin": "AnPiaoChong",
+    "pinyinInitials": "APC"
+  },
+  {
+    "name": "圆丝蛛",
+    "pinyin": "YuanSiZhu",
+    "pinyinInitials": "YSZ"
+  },
+  {
+    "name": "阿利多斯",
+    "pinyin": "ALiDuoSi",
+    "pinyinInitials": "ALDS"
+  },
+  {
+    "name": "叉字蝠",
+    "pinyin": "ChaZiFu",
+    "pinyinInitials": "CZF"
+  },
+  {
+    "name": "灯笼鱼",
+    "pinyin": "DengLongYu",
+    "pinyinInitials": "DLY"
+  },
+  {
+    "name": "电灯怪",
+    "pinyin": "DianDengGuai",
+    "pinyinInitials": "DDG"
+  },
+  {
+    "name": "皮丘",
+    "pinyin": "PiQiu",
+    "pinyinInitials": "PQ"
+  },
+  {
+    "name": "皮宝宝",
+    "pinyin": "PiBaoBao",
+    "pinyinInitials": "PBB"
+  },
+  {
+    "name": "宝宝丁",
+    "pinyin": "BaoBaoDing",
+    "pinyinInitials": "BBD"
+  },
+  {
+    "name": "波克比",
+    "pinyin": "BoKeBi",
+    "pinyinInitials": "BKB"
+  },
+  {
+    "name": "波克基古",
+    "pinyin": "BoKeJiGu",
+    "pinyinInitials": "BKJG"
+  },
+  {
+    "name": "天然雀",
+    "pinyin": "TianRanQue",
+    "pinyinInitials": "TRQ"
+  },
+  {
+    "name": "天然鸟",
+    "pinyin": "TianRanNiao",
+    "pinyinInitials": "TRN"
+  },
+  {
+    "name": "咩利羊",
+    "pinyin": "MieLiYang",
+    "pinyinInitials": "MLY"
+  },
+  {
+    "name": "茸茸羊",
+    "pinyin": "RongRongYang",
+    "pinyinInitials": "RRY"
+  },
+  {
+    "name": "电龙",
+    "pinyin": "DianLong",
+    "pinyinInitials": "DL"
+  },
+  {
+    "name": "美丽花",
+    "pinyin": "MeiLiHua",
+    "pinyinInitials": "MLH"
+  },
+  {
+    "name": "玛力露",
+    "pinyin": "MaLiLou",
+    "pinyinInitials": "MLL"
+  },
+  {
+    "name": "玛力露丽",
+    "pinyin": "MaLiLouLi",
+    "pinyinInitials": "MLLL"
+  },
+  {
+    "name": "树才怪",
+    "pinyin": "ShuCaiGuai",
+    "pinyinInitials": "SCG"
+  },
+  {
+    "name": "蚊香蛙皇",
+    "pinyin": "WenXiangWaHuang",
+    "pinyinInitials": "WXWH"
+  },
+  {
+    "name": "毽子草",
+    "pinyin": "JianZiCao",
+    "pinyinInitials": "JZC"
+  },
+  {
+    "name": "毽子花",
+    "pinyin": "JianZiHua",
+    "pinyinInitials": "JZH"
+  },
+  {
+    "name": "毽子棉",
+    "pinyin": "JianZiMian",
+    "pinyinInitials": "JZM"
+  },
+  {
+    "name": "长尾怪手",
+    "pinyin": "ChangWeiGuaiShou",
+    "pinyinInitials": "CWGS"
+  },
+  {
+    "name": "向日种子",
+    "pinyin": "XiangRiZhongZi",
+    "pinyinInitials": "XRZZ"
+  },
+  {
+    "name": "向日花怪",
+    "pinyin": "XiangRiHuaGuai",
+    "pinyinInitials": "XRHG"
+  },
+  {
+    "name": "蜻蜻蜓",
+    "pinyin": "QingQingTing",
+    "pinyinInitials": "QQT"
+  },
+  {
+    "name": "乌波",
+    "pinyin": "WuBo",
+    "pinyinInitials": "WB"
+  },
+  {
+    "name": "沼王",
+    "pinyin": "ZhaoWang",
+    "pinyinInitials": "ZW"
+  },
+  {
+    "name": "太阳伊布",
+    "pinyin": "TaiYangYiBu",
+    "pinyinInitials": "TYYB"
+  },
+  {
+    "name": "月亮伊布",
+    "pinyin": "YueLiangYiBu",
+    "pinyinInitials": "YLYB"
+  },
+  {
+    "name": "黑暗鸦",
+    "pinyin": "HeiAnYa",
+    "pinyinInitials": "HAY"
+  },
+  {
+    "name": "呆呆王",
+    "pinyin": "DaiDaiWang",
+    "pinyinInitials": "DDW"
+  },
+  {
+    "name": "梦妖",
+    "pinyin": "MengYao",
+    "pinyinInitials": "MY"
+  },
+  {
+    "name": "未知图腾",
+    "pinyin": "WeiZhiTuTeng",
+    "pinyinInitials": "WZTT"
+  },
+  {
+    "name": "果然翁",
+    "pinyin": "GuoRanWeng",
+    "pinyinInitials": "GRW"
+  },
+  {
+    "name": "麒麟奇",
+    "pinyin": "QiLinQi",
+    "pinyinInitials": "QLQ"
+  },
+  {
+    "name": "榛果球",
+    "pinyin": "ZhenGuoQiu",
+    "pinyinInitials": "ZGQ"
+  },
+  {
+    "name": "佛烈托斯",
+    "pinyin": "FoLieTuoSi",
+    "pinyinInitials": "FLTS"
+  },
+  {
+    "name": "土龙弟弟",
+    "pinyin": "TuLongDiDi",
+    "pinyinInitials": "TLDD"
+  },
+  {
+    "name": "天蝎",
+    "pinyin": "TianXie",
+    "pinyinInitials": "TX"
+  },
+  {
+    "name": "大钢蛇",
+    "pinyin": "DaGangShe",
+    "pinyinInitials": "DGS"
+  },
+  {
+    "name": "布鲁",
+    "pinyin": "BuLu",
+    "pinyinInitials": "BL"
+  },
+  {
+    "name": "布鲁皇",
+    "pinyin": "BuLuHuang",
+    "pinyinInitials": "BLH"
+  },
+  {
+    "name": "千针鱼",
+    "pinyin": "QianZhenYu",
+    "pinyinInitials": "QZY"
+  },
+  {
+    "name": "巨钳螳螂",
+    "pinyin": "JuQianTangLang",
+    "pinyinInitials": "JQTL"
+  },
+  {
+    "name": "壶壶",
+    "pinyin": "HuHu",
+    "pinyinInitials": "HH"
+  },
+  {
+    "name": "赫拉克罗斯",
+    "pinyin": "HeLaKeLuoSi",
+    "pinyinInitials": "HLKLS"
+  },
+  {
+    "name": "狃拉",
+    "pinyin": "NiuLa",
+    "pinyinInitials": "NL"
+  },
+  {
+    "name": "熊宝宝",
+    "pinyin": "XiongBaoBao",
+    "pinyinInitials": "XBB"
+  },
+  {
+    "name": "圈圈熊",
+    "pinyin": "QuanQuanXiong",
+    "pinyinInitials": "QQX"
+  },
+  {
+    "name": "熔岩虫",
+    "pinyin": "RongYanChong",
+    "pinyinInitials": "RYC"
+  },
+  {
+    "name": "熔岩蜗牛",
+    "pinyin": "RongYanWoNiu",
+    "pinyinInitials": "RYWN"
+  },
+  {
+    "name": "小山猪",
+    "pinyin": "XiaoShanZhu",
+    "pinyinInitials": "XSZ"
+  },
+  {
+    "name": "长毛猪",
+    "pinyin": "ChangMaoZhu",
+    "pinyinInitials": "CMZ"
+  },
+  {
+    "name": "太阳珊瑚",
+    "pinyin": "TaiYangShanHu",
+    "pinyinInitials": "TYSH"
+  },
+  {
+    "name": "铁炮鱼",
+    "pinyin": "TiePaoYu",
+    "pinyinInitials": "TPY"
+  },
+  {
+    "name": "章鱼桶",
+    "pinyin": "ZhangYuTong",
+    "pinyinInitials": "ZYT"
+  },
+  {
+    "name": "信使鸟",
+    "pinyin": "XinShiNiao",
+    "pinyinInitials": "XSN"
+  },
+  {
+    "name": "巨翅飞鱼",
+    "pinyin": "JuChiFeiYu",
+    "pinyinInitials": "JCFY"
+  },
+  {
+    "name": "盔甲鸟",
+    "pinyin": "KuiJiaNiao",
+    "pinyinInitials": "KJN"
+  },
+  {
+    "name": "戴鲁比",
+    "pinyin": "DaiLuBi",
+    "pinyinInitials": "DLB"
+  },
+  {
+    "name": "黑鲁加",
+    "pinyin": "HeiLuJia",
+    "pinyinInitials": "HLJ"
+  },
+  {
+    "name": "刺龙王",
+    "pinyin": "CiLongWang",
+    "pinyinInitials": "CLW"
+  },
+  {
+    "name": "小小象",
+    "pinyin": "XiaoXiaoXiang",
+    "pinyinInitials": "XXX"
+  },
+  {
+    "name": "顿甲",
+    "pinyin": "DunJia",
+    "pinyinInitials": "DJ"
+  },
+  {
+    "name": "多边兽Ⅱ",
+    "pinyin": "DuoBianShouⅡ",
+    "pinyinInitials": "DBSⅡ"
+  },
+  {
+    "name": "惊角鹿",
+    "pinyin": "JingJiaoLu",
+    "pinyinInitials": "JJL"
+  },
+  {
+    "name": "图图犬",
+    "pinyin": "TuTuQuan",
+    "pinyinInitials": "TTQ"
+  },
+  {
+    "name": "无畏小子",
+    "pinyin": "WuWeiXiaoZi",
+    "pinyinInitials": "WWXZ"
+  },
+  {
+    "name": "战舞郎",
+    "pinyin": "ZhanWuLang",
+    "pinyinInitials": "ZWL"
+  },
+  {
+    "name": "迷唇娃",
+    "pinyin": "MiChunWa",
+    "pinyinInitials": "MCW"
+  },
+  {
+    "name": "电击怪",
+    "pinyin": "DianJiGuai",
+    "pinyinInitials": "DJG"
+  },
+  {
+    "name": "鸭嘴宝宝",
+    "pinyin": "YaZuiBaoBao",
+    "pinyinInitials": "YZBB"
+  },
+  {
+    "name": "大奶罐",
+    "pinyin": "DaNaiGuan",
+    "pinyinInitials": "DNG"
+  },
+  {
+    "name": "幸福蛋",
+    "pinyin": "XingFuDan",
+    "pinyinInitials": "XFD"
+  },
+  {
+    "name": "雷公",
+    "pinyin": "LeiGong",
+    "pinyinInitials": "LG"
+  },
+  {
+    "name": "炎帝",
+    "pinyin": "YanDi",
+    "pinyinInitials": "YD"
+  },
+  {
+    "name": "水君",
+    "pinyin": "ShuiJun",
+    "pinyinInitials": "SJ"
+  },
+  {
+    "name": "幼基拉斯",
+    "pinyin": "YouJiLaSi",
+    "pinyinInitials": "YJLS"
+  },
+  {
+    "name": "沙基拉斯",
+    "pinyin": "ShaJiLaSi",
+    "pinyinInitials": "SJLS"
+  },
+  {
+    "name": "班基拉斯",
+    "pinyin": "BanJiLaSi",
+    "pinyinInitials": "BJLS"
+  },
+  {
+    "name": "洛奇亚",
+    "pinyin": "LuoQiYa",
+    "pinyinInitials": "LQY"
+  },
+  {
+    "name": "凤王",
+    "pinyin": "FengWang",
+    "pinyinInitials": "FW"
+  },
+  {
+    "name": "时拉比",
+    "pinyin": "ShiLaBi",
+    "pinyinInitials": "SLB"
+  },
+  {
+    "name": "木守宫",
+    "pinyin": "MuShouGong",
+    "pinyinInitials": "MSG"
+  },
+  {
+    "name": "森林蜥蜴",
+    "pinyin": "SenLinXiYi",
+    "pinyinInitials": "SLXY"
+  },
+  {
+    "name": "蜥蜴王",
+    "pinyin": "XiYiWang",
+    "pinyinInitials": "XYW"
+  },
+  {
+    "name": "火稚鸡",
+    "pinyin": "HuoZhiJi",
+    "pinyinInitials": "HZJ"
+  },
+  {
+    "name": "力壮鸡",
+    "pinyin": "LiZhuangJi",
+    "pinyinInitials": "LZJ"
+  },
+  {
+    "name": "火焰鸡",
+    "pinyin": "HuoYanJi",
+    "pinyinInitials": "HYJ"
+  },
+  {
+    "name": "水跃鱼",
+    "pinyin": "ShuiYueYu",
+    "pinyinInitials": "SYY"
+  },
+  {
+    "name": "沼跃鱼",
+    "pinyin": "ZhaoYueYu",
+    "pinyinInitials": "ZYY"
+  },
+  {
+    "name": "巨沼怪",
+    "pinyin": "JuZhaoGuai",
+    "pinyinInitials": "JZG"
+  },
+  {
+    "name": "土狼犬",
+    "pinyin": "TuLangQuan",
+    "pinyinInitials": "TLQ"
+  },
+  {
+    "name": "大狼犬",
+    "pinyin": "DaLangQuan",
+    "pinyinInitials": "DLQ"
+  },
+  {
+    "name": "蛇纹熊",
+    "pinyin": "SheWenXiong",
+    "pinyinInitials": "SWX"
+  },
+  {
+    "name": "直冲熊",
+    "pinyin": "ZhiChongXiong",
+    "pinyinInitials": "ZCX"
+  },
+  {
+    "name": "刺尾虫",
+    "pinyin": "CiWeiChong",
+    "pinyinInitials": "CWC"
+  },
+  {
+    "name": "甲壳茧",
+    "pinyin": "JiaKeJian",
+    "pinyinInitials": "JKJ"
+  },
+  {
+    "name": "狩猎凤蝶",
+    "pinyin": "ShouLieFengDie",
+    "pinyinInitials": "SLFD"
+  },
+  {
+    "name": "盾甲茧",
+    "pinyin": "DunJiaJian",
+    "pinyinInitials": "DJJ"
+  },
+  {
+    "name": "毒粉蛾",
+    "pinyin": "DuFenE",
+    "pinyinInitials": "DFE"
+  },
+  {
+    "name": "莲叶童子",
+    "pinyin": "LianYeTongZi",
+    "pinyinInitials": "LYTZ"
+  },
+  {
+    "name": "莲帽小童",
+    "pinyin": "LianMaoXiaoTong",
+    "pinyinInitials": "LMXT"
+  },
+  {
+    "name": "乐天河童",
+    "pinyin": "LeTianHeTong",
+    "pinyinInitials": "LTHT"
+  },
+  {
+    "name": "橡实果",
+    "pinyin": "XiangShiGuo",
+    "pinyinInitials": "XSG"
+  },
+  {
+    "name": "长鼻叶",
+    "pinyin": "ChangBiYe",
+    "pinyinInitials": "CBY"
+  },
+  {
+    "name": "狡猾天狗",
+    "pinyin": "JiaoHuaTianGou",
+    "pinyinInitials": "JHTG"
+  },
+  {
+    "name": "傲骨燕",
+    "pinyin": "AoGuYan",
+    "pinyinInitials": "AGY"
+  },
+  {
+    "name": "大王燕",
+    "pinyin": "DaWangYan",
+    "pinyinInitials": "DWY"
+  },
+  {
+    "name": "长翅鸥",
+    "pinyin": "ChangChiOu",
+    "pinyinInitials": "CCO"
+  },
+  {
+    "name": "大嘴鸥",
+    "pinyin": "DaZuiOu",
+    "pinyinInitials": "DZO"
+  },
+  {
+    "name": "拉鲁拉丝",
+    "pinyin": "LaLuLaSi",
+    "pinyinInitials": "LLLS"
+  },
+  {
+    "name": "奇鲁莉安",
+    "pinyin": "QiLuLiAn",
+    "pinyinInitials": "QLLA"
+  },
+  {
+    "name": "沙奈朵",
+    "pinyin": "ShaNaiDuo",
+    "pinyinInitials": "SND"
+  },
+  {
+    "name": "溜溜糖球",
+    "pinyin": "LiuLiuTangQiu",
+    "pinyinInitials": "LLTQ"
+  },
+  {
+    "name": "雨翅蛾",
+    "pinyin": "YuChiE",
+    "pinyinInitials": "YCE"
+  },
+  {
+    "name": "蘑蘑菇",
+    "pinyin": "MoMoGu",
+    "pinyinInitials": "MMG"
+  },
+  {
+    "name": "斗笠菇",
+    "pinyin": "DouLiGu",
+    "pinyinInitials": "DLG"
+  },
+  {
+    "name": "懒人獭",
+    "pinyin": "LanRenTa",
+    "pinyinInitials": "LRT"
+  },
+  {
+    "name": "过动猿",
+    "pinyin": "GuoDongYuan",
+    "pinyinInitials": "GDY"
+  },
+  {
+    "name": "请假王",
+    "pinyin": "QingJiaWang",
+    "pinyinInitials": "QJW"
+  },
+  {
+    "name": "土居忍士",
+    "pinyin": "TuJuRenShi",
+    "pinyinInitials": "TJRS"
+  },
+  {
+    "name": "铁面忍者",
+    "pinyin": "TieMianRenZhe",
+    "pinyinInitials": "TMRZ"
+  },
+  {
+    "name": "脱壳忍者",
+    "pinyin": "TuoKeRenZhe",
+    "pinyinInitials": "TKRZ"
+  },
+  {
+    "name": "咕妞妞",
+    "pinyin": "GuNiuNiu",
+    "pinyinInitials": "GNN"
+  },
+  {
+    "name": "吼爆弹",
+    "pinyin": "HouBaoDan",
+    "pinyinInitials": "HBD"
+  },
+  {
+    "name": "爆音怪",
+    "pinyin": "BaoYinGuai",
+    "pinyinInitials": "BYG"
+  },
+  {
+    "name": "幕下力士",
+    "pinyin": "MuXiaLiShi",
+    "pinyinInitials": "MXLS"
+  },
+  {
+    "name": "铁掌力士",
+    "pinyin": "TieZhangLiShi",
+    "pinyinInitials": "TZLS"
+  },
+  {
+    "name": "露力丽",
+    "pinyin": "LouLiLi",
+    "pinyinInitials": "LLL"
+  },
+  {
+    "name": "朝北鼻",
+    "pinyin": "ZhaoBeiBi",
+    "pinyinInitials": "ZBB"
+  },
+  {
+    "name": "向尾喵",
+    "pinyin": "XiangWeiMiao",
+    "pinyinInitials": "XWM"
+  },
+  {
+    "name": "优雅猫",
+    "pinyin": "YouYaMao",
+    "pinyinInitials": "YYM"
+  },
+  {
+    "name": "勾魂眼",
+    "pinyin": "GouHunYan",
+    "pinyinInitials": "GHY"
+  },
+  {
+    "name": "大嘴娃",
+    "pinyin": "DaZuiWa",
+    "pinyinInitials": "DZW"
+  },
+  {
+    "name": "可可多拉",
+    "pinyin": "KeKeDuoLa",
+    "pinyinInitials": "KKDL"
+  },
+  {
+    "name": "可多拉",
+    "pinyin": "KeDuoLa",
+    "pinyinInitials": "KDL"
+  },
+  {
+    "name": "波士可多拉",
+    "pinyin": "BoShiKeDuoLa",
+    "pinyinInitials": "BSKDL"
+  },
+  {
+    "name": "玛沙那",
+    "pinyin": "MaShaNa",
+    "pinyinInitials": "MSN"
+  },
+  {
+    "name": "恰雷姆",
+    "pinyin": "QiaLeiMu",
+    "pinyinInitials": "QLM"
+  },
+  {
+    "name": "落雷兽",
+    "pinyin": "LuoLeiShou",
+    "pinyinInitials": "LLS"
+  },
+  {
+    "name": "雷电兽",
+    "pinyin": "LeiDianShou",
+    "pinyinInitials": "LDS"
+  },
+  {
+    "name": "正电拍拍",
+    "pinyin": "ZhengDianPaiPai",
+    "pinyinInitials": "ZDPP"
+  },
+  {
+    "name": "负电拍拍",
+    "pinyin": "FuDianPaiPai",
+    "pinyinInitials": "FDPP"
+  },
+  {
+    "name": "电萤虫",
+    "pinyin": "DianYingChong",
+    "pinyinInitials": "DYC"
+  },
+  {
+    "name": "甜甜萤",
+    "pinyin": "TianTianYing",
+    "pinyinInitials": "TTY"
+  },
+  {
+    "name": "毒蔷薇",
+    "pinyin": "DuQiangWei",
+    "pinyinInitials": "DQW"
+  },
+  {
+    "name": "溶食兽",
+    "pinyin": "RongShiShou",
+    "pinyinInitials": "RSS"
+  },
+  {
+    "name": "吞食兽",
+    "pinyin": "TunShiShou",
+    "pinyinInitials": "TSS"
+  },
+  {
+    "name": "利牙鱼",
+    "pinyin": "LiYaYu",
+    "pinyinInitials": "LYY"
+  },
+  {
+    "name": "巨牙鲨",
+    "pinyin": "JuYaSha",
+    "pinyinInitials": "JYS"
+  },
+  {
+    "name": "吼吼鲸",
+    "pinyin": "HouHouJing",
+    "pinyinInitials": "HHJ"
+  },
+  {
+    "name": "吼鲸王",
+    "pinyin": "HouJingWang",
+    "pinyinInitials": "HJW"
+  },
+  {
+    "name": "呆火驼",
+    "pinyin": "DaiHuoTuo",
+    "pinyinInitials": "DHT"
+  },
+  {
+    "name": "喷火驼",
+    "pinyin": "PenHuoTuo",
+    "pinyinInitials": "PHT"
+  },
+  {
+    "name": "煤炭龟",
+    "pinyin": "MeiTanGui",
+    "pinyinInitials": "MTG"
+  },
+  {
+    "name": "跳跳猪",
+    "pinyin": "TiaoTiaoZhu",
+    "pinyinInitials": "TTZ"
+  },
+  {
+    "name": "噗噗猪",
+    "pinyin": "PuPuZhu",
+    "pinyinInitials": "PPZ"
+  },
+  {
+    "name": "晃晃斑",
+    "pinyin": "HuangHuangBan",
+    "pinyinInitials": "HHB"
+  },
+  {
+    "name": "大颚蚁",
+    "pinyin": "DaEYi",
+    "pinyinInitials": "DEY"
+  },
+  {
+    "name": "超音波幼虫",
+    "pinyin": "ChaoYinBoYouChong",
+    "pinyinInitials": "CYBYC"
+  },
+  {
+    "name": "沙漠蜻蜓",
+    "pinyin": "ShaMoQingTing",
+    "pinyinInitials": "SMQT"
+  },
+  {
+    "name": "刺球仙人掌",
+    "pinyin": "CiQiuXianRenZhang",
+    "pinyinInitials": "CQXRZ"
+  },
+  {
+    "name": "梦歌仙人掌",
+    "pinyin": "MengGeXianRenZhang",
+    "pinyinInitials": "MGXRZ"
+  },
+  {
+    "name": "青绵鸟",
+    "pinyin": "QingMianNiao",
+    "pinyinInitials": "QMN"
+  },
+  {
+    "name": "七夕青鸟",
+    "pinyin": "QiXiQingNiao",
+    "pinyinInitials": "QXQN"
+  },
+  {
+    "name": "猫鼬斩",
+    "pinyin": "MaoYouZhan",
+    "pinyinInitials": "MYZ"
+  },
+  {
+    "name": "饭匙蛇",
+    "pinyin": "FanChiShe",
+    "pinyinInitials": "FCS"
+  },
+  {
+    "name": "月石",
+    "pinyin": "YueShi",
+    "pinyinInitials": "YS"
+  },
+  {
+    "name": "太阳岩",
+    "pinyin": "TaiYangYan",
+    "pinyinInitials": "TYY"
+  },
+  {
+    "name": "泥泥鳅",
+    "pinyin": "NiNiQiu",
+    "pinyinInitials": "NNQ"
+  },
+  {
+    "name": "鲶鱼王",
+    "pinyin": "NianYuWang",
+    "pinyinInitials": "NYW"
+  },
+  {
+    "name": "龙虾小兵",
+    "pinyin": "LongXiaXiaoBing",
+    "pinyinInitials": "LXXB"
+  },
+  {
+    "name": "铁螯龙虾",
+    "pinyin": "TieAoLongXia",
+    "pinyinInitials": "TALX"
+  },
+  {
+    "name": "天秤偶",
+    "pinyin": "TianChengOu",
+    "pinyinInitials": "TCO"
+  },
+  {
+    "name": "念力土偶",
+    "pinyin": "NianLiTuOu",
+    "pinyinInitials": "NLTO"
+  },
+  {
+    "name": "触手百合",
+    "pinyin": "ChuShouBaiHe",
+    "pinyinInitials": "CSBH"
+  },
+  {
+    "name": "摇篮百合",
+    "pinyin": "YaoLanBaiHe",
+    "pinyinInitials": "YLBH"
+  },
+  {
+    "name": "太古羽虫",
+    "pinyin": "TaiGuYuChong",
+    "pinyinInitials": "TGYC"
+  },
+  {
+    "name": "太古盔甲",
+    "pinyin": "TaiGuKuiJia",
+    "pinyinInitials": "TGKJ"
+  },
+  {
+    "name": "丑丑鱼",
+    "pinyin": "ChouChouYu",
+    "pinyinInitials": "CCY"
+  },
+  {
+    "name": "美纳斯",
+    "pinyin": "MeiNaSi",
+    "pinyinInitials": "MNS"
+  },
+  {
+    "name": "飘浮泡泡",
+    "pinyin": "PiaoFuPaoPao",
+    "pinyinInitials": "PFPP"
+  },
+  {
+    "name": "变隐龙",
+    "pinyin": "BianYinLong",
+    "pinyinInitials": "BYL"
+  },
+  {
+    "name": "怨影娃娃",
+    "pinyin": "YuanYingWaWa",
+    "pinyinInitials": "YYWW"
+  },
+  {
+    "name": "诅咒娃娃",
+    "pinyin": "ZuZhouWaWa",
+    "pinyinInitials": "ZZWW"
+  },
+  {
+    "name": "夜巡灵",
+    "pinyin": "YeXunLing",
+    "pinyinInitials": "YXL"
+  },
+  {
+    "name": "彷徨夜灵",
+    "pinyin": "PangHuangYeLing",
+    "pinyinInitials": "PHYL"
+  },
+  {
+    "name": "热带龙",
+    "pinyin": "ReDaiLong",
+    "pinyinInitials": "RDL"
+  },
+  {
+    "name": "风铃铃",
+    "pinyin": "FengLingLing",
+    "pinyinInitials": "FLL"
+  },
+  {
+    "name": "阿勃梭鲁",
+    "pinyin": "ABoSuoLu",
+    "pinyinInitials": "ABSL"
+  },
+  {
+    "name": "小果然",
+    "pinyin": "XiaoGuoRan",
+    "pinyinInitials": "XGR"
+  },
+  {
+    "name": "雪童子",
+    "pinyin": "XueTongZi",
+    "pinyinInitials": "XTZ"
+  },
+  {
+    "name": "冰鬼护",
+    "pinyin": "BingGuiHu",
+    "pinyinInitials": "BGH"
+  },
+  {
+    "name": "海豹球",
+    "pinyin": "HaiBaoQiu",
+    "pinyinInitials": "HBQ"
+  },
+  {
+    "name": "海魔狮",
+    "pinyin": "HaiMoShi",
+    "pinyinInitials": "HMS"
+  },
+  {
+    "name": "帝牙海狮",
+    "pinyin": "DiYaHaiShi",
+    "pinyinInitials": "DYHS"
+  },
+  {
+    "name": "珍珠贝",
+    "pinyin": "ZhenZhuBei",
+    "pinyinInitials": "ZZB"
+  },
+  {
+    "name": "猎斑鱼",
+    "pinyin": "LieBanYu",
+    "pinyinInitials": "LBY"
+  },
+  {
+    "name": "樱花鱼",
+    "pinyin": "YingHuaYu",
+    "pinyinInitials": "YHY"
+  },
+  {
+    "name": "古空棘鱼",
+    "pinyin": "GuKongJiYu",
+    "pinyinInitials": "GKJY"
+  },
+  {
+    "name": "爱心鱼",
+    "pinyin": "AiXinYu",
+    "pinyinInitials": "AXY"
+  },
+  {
+    "name": "宝贝龙",
+    "pinyin": "BaoBeiLong",
+    "pinyinInitials": "BBL"
+  },
+  {
+    "name": "甲壳龙",
+    "pinyin": "JiaKeLong",
+    "pinyinInitials": "JKL"
+  },
+  {
+    "name": "暴飞龙",
+    "pinyin": "BaoFeiLong",
+    "pinyinInitials": "BFL"
+  },
+  {
+    "name": "铁哑铃",
+    "pinyin": "TieYaLing",
+    "pinyinInitials": "TYL"
+  },
+  {
+    "name": "金属怪",
+    "pinyin": "JinShuGuai",
+    "pinyinInitials": "JSG"
+  },
+  {
+    "name": "巨金怪",
+    "pinyin": "JuJinGuai",
+    "pinyinInitials": "JJG"
+  },
+  {
+    "name": "雷吉洛克",
+    "pinyin": "LeiJiLuoKe",
+    "pinyinInitials": "LJLK"
+  },
+  {
+    "name": "雷吉艾斯",
+    "pinyin": "LeiJiAiSi",
+    "pinyinInitials": "LJAS"
+  },
+  {
+    "name": "雷吉斯奇鲁",
+    "pinyin": "LeiJiSiQiLu",
+    "pinyinInitials": "LJSQL"
+  },
+  {
+    "name": "拉帝亚斯",
+    "pinyin": "LaDiYaSi",
+    "pinyinInitials": "LDYS"
+  },
+  {
+    "name": "拉帝欧斯",
+    "pinyin": "LaDiOuSi",
+    "pinyinInitials": "LDOS"
+  },
+  {
+    "name": "盖欧卡",
+    "pinyin": "GaiOuKa",
+    "pinyinInitials": "GOK"
+  },
+  {
+    "name": "固拉多",
+    "pinyin": "GuLaDuo",
+    "pinyinInitials": "GLD"
+  },
+  {
+    "name": "烈空坐",
+    "pinyin": "LieKongZuo",
+    "pinyinInitials": "LKZ"
+  },
+  {
+    "name": "基拉祈",
+    "pinyin": "JiLaQi",
+    "pinyinInitials": "JLQ"
+  },
+  {
+    "name": "代欧奇希斯",
+    "pinyin": "DaiOuQiXiSi",
+    "pinyinInitials": "DOQXS"
+  },
+  {
+    "name": "草苗龟",
+    "pinyin": "CaoMiaoGui",
+    "pinyinInitials": "CMG"
+  },
+  {
+    "name": "树林龟",
+    "pinyin": "ShuLinGui",
+    "pinyinInitials": "SLG"
+  },
+  {
+    "name": "土台龟",
+    "pinyin": "TuTaiGui",
+    "pinyinInitials": "TTG"
+  },
+  {
+    "name": "小火焰猴",
+    "pinyin": "XiaoHuoYanHou",
+    "pinyinInitials": "XHYH"
+  },
+  {
+    "name": "猛火猴",
+    "pinyin": "MengHuoHou",
+    "pinyinInitials": "MHH"
+  },
+  {
+    "name": "烈焰猴",
+    "pinyin": "LieYanHou",
+    "pinyinInitials": "LYH"
+  },
+  {
+    "name": "波加曼",
+    "pinyin": "BoJiaMan",
+    "pinyinInitials": "BJM"
+  },
+  {
+    "name": "波皇子",
+    "pinyin": "BoHuangZi",
+    "pinyinInitials": "BHZ"
+  },
+  {
+    "name": "帝王拿波",
+    "pinyin": "DiWangNaBo",
+    "pinyinInitials": "DWNB"
+  },
+  {
+    "name": "姆克儿",
+    "pinyin": "MuKeEr",
+    "pinyinInitials": "MKE"
+  },
+  {
+    "name": "姆克鸟",
+    "pinyin": "MuKeNiao",
+    "pinyinInitials": "MKN"
+  },
+  {
+    "name": "姆克鹰",
+    "pinyin": "MuKeYing",
+    "pinyinInitials": "MKY"
+  },
+  {
+    "name": "大牙狸",
+    "pinyin": "DaYaLi",
+    "pinyinInitials": "DYL"
+  },
+  {
+    "name": "大尾狸",
+    "pinyin": "DaWeiLi",
+    "pinyinInitials": "DWL"
+  },
+  {
+    "name": "圆法师",
+    "pinyin": "YuanFaShi",
+    "pinyinInitials": "YFS"
+  },
+  {
+    "name": "音箱蟀",
+    "pinyin": "YinXiangShuai",
+    "pinyinInitials": "YXS"
+  },
+  {
+    "name": "小猫怪",
+    "pinyin": "XiaoMaoGuai",
+    "pinyinInitials": "XMG"
+  },
+  {
+    "name": "勒克猫",
+    "pinyin": "LeKeMao",
+    "pinyinInitials": "LKM"
+  },
+  {
+    "name": "伦琴猫",
+    "pinyin": "LunQinMao",
+    "pinyinInitials": "LQM"
+  },
+  {
+    "name": "含羞苞",
+    "pinyin": "HanXiuBao",
+    "pinyinInitials": "HXB"
+  },
+  {
+    "name": "罗丝雷朵",
+    "pinyin": "LuoSiLeiDuo",
+    "pinyinInitials": "LSLD"
+  },
+  {
+    "name": "头盖龙",
+    "pinyin": "TouGaiLong",
+    "pinyinInitials": "TGL"
+  },
+  {
+    "name": "战槌龙",
+    "pinyin": "ZhanChuiLong",
+    "pinyinInitials": "ZCL"
+  },
+  {
+    "name": "盾甲龙",
+    "pinyin": "DunJiaLong",
+    "pinyinInitials": "DJL"
+  },
+  {
+    "name": "护城龙",
+    "pinyin": "HuChengLong",
+    "pinyinInitials": "HCL"
+  },
+  {
+    "name": "结草儿",
+    "pinyin": "JieCaoEr",
+    "pinyinInitials": "JCE"
+  },
+  {
+    "name": "结草贵妇",
+    "pinyin": "JieCaoGuiFu",
+    "pinyinInitials": "JCGF"
+  },
+  {
+    "name": "绅士蛾",
+    "pinyin": "ShenShiE",
+    "pinyinInitials": "SSE"
+  },
+  {
+    "name": "三蜜蜂",
+    "pinyin": "SanMiFeng",
+    "pinyinInitials": "SMF"
+  },
+  {
+    "name": "蜂女王",
+    "pinyin": "FengNvWang",
+    "pinyinInitials": "FNW"
+  },
+  {
+    "name": "帕奇利兹",
+    "pinyin": "PaQiLiZi",
+    "pinyinInitials": "PQLZ"
+  },
+  {
+    "name": "泳圈鼬",
+    "pinyin": "YongQuanYou",
+    "pinyinInitials": "YQY"
+  },
+  {
+    "name": "浮潜鼬",
+    "pinyin": "FuQianYou",
+    "pinyinInitials": "FQY"
+  },
+  {
+    "name": "樱花宝",
+    "pinyin": "YingHuaBao",
+    "pinyinInitials": "YHB"
+  },
+  {
+    "name": "樱花儿",
+    "pinyin": "YingHuaEr",
+    "pinyinInitials": "YHE"
+  },
+  {
+    "name": "无壳海兔",
+    "pinyin": "WuKeHaiTu",
+    "pinyinInitials": "WKHT"
+  },
+  {
+    "name": "海兔兽",
+    "pinyin": "HaiTuShou",
+    "pinyinInitials": "HTS"
+  },
+  {
+    "name": "双尾怪手",
+    "pinyin": "ShuangWeiGuaiShou",
+    "pinyinInitials": "SWGS"
+  },
+  {
+    "name": "飘飘球",
+    "pinyin": "PiaoPiaoQiu",
+    "pinyinInitials": "PPQ"
+  },
+  {
+    "name": "随风球",
+    "pinyin": "SuiFengQiu",
+    "pinyinInitials": "SFQ"
+  },
+  {
+    "name": "卷卷耳",
+    "pinyin": "JuanJuanEr",
+    "pinyinInitials": "JJE"
+  },
+  {
+    "name": "长耳兔",
+    "pinyin": "ChangErTu",
+    "pinyinInitials": "CET"
+  },
+  {
+    "name": "梦妖魔",
+    "pinyin": "MengYaoMo",
+    "pinyinInitials": "MYM"
+  },
+  {
+    "name": "乌鸦头头",
+    "pinyin": "WuYaTouTou",
+    "pinyinInitials": "WYTT"
+  },
+  {
+    "name": "魅力喵",
+    "pinyin": "MeiLiMiao",
+    "pinyinInitials": "MLM"
+  },
+  {
+    "name": "东施喵",
+    "pinyin": "DongShiMiao",
+    "pinyinInitials": "DSM"
+  },
+  {
+    "name": "铃铛响",
+    "pinyin": "LingDangXiang",
+    "pinyinInitials": "LDX"
+  },
+  {
+    "name": "臭鼬噗",
+    "pinyin": "ChouYouPu",
+    "pinyinInitials": "CYP"
+  },
+  {
+    "name": "坦克臭鼬",
+    "pinyin": "TanKeChouYou",
+    "pinyinInitials": "TKCY"
+  },
+  {
+    "name": "铜镜怪",
+    "pinyin": "TongJingGuai",
+    "pinyinInitials": "TJG"
+  },
+  {
+    "name": "青铜钟",
+    "pinyin": "QingTongZhong",
+    "pinyinInitials": "QTZ"
+  },
+  {
+    "name": "盆才怪",
+    "pinyin": "PenCaiGuai",
+    "pinyinInitials": "PCG"
+  },
+  {
+    "name": "魔尼尼",
+    "pinyin": "MoNiNi",
+    "pinyinInitials": "MNN"
+  },
+  {
+    "name": "小福蛋",
+    "pinyin": "XiaoFuDan",
+    "pinyinInitials": "XFD"
+  },
+  {
+    "name": "聒噪鸟",
+    "pinyin": "GuoZaoNiao",
+    "pinyinInitials": "GZN"
+  },
+  {
+    "name": "花岩怪",
+    "pinyin": "HuaYanGuai",
+    "pinyinInitials": "HYG"
+  },
+  {
+    "name": "圆陆鲨",
+    "pinyin": "YuanLuSha",
+    "pinyinInitials": "YLS"
+  },
+  {
+    "name": "尖牙陆鲨",
+    "pinyin": "JianYaLuSha",
+    "pinyinInitials": "JYLS"
+  },
+  {
+    "name": "烈咬陆鲨",
+    "pinyin": "LieYaoLuSha",
+    "pinyinInitials": "LYLS"
+  },
+  {
+    "name": "小卡比兽",
+    "pinyin": "XiaoKaBiShou",
+    "pinyinInitials": "XKBS"
+  },
+  {
+    "name": "利欧路",
+    "pinyin": "LiOuLu",
+    "pinyinInitials": "LOL"
+  },
+  {
+    "name": "路卡利欧",
+    "pinyin": "LuKaLiOu",
+    "pinyinInitials": "LKLO"
+  },
+  {
+    "name": "沙河马",
+    "pinyin": "ShaHeMa",
+    "pinyinInitials": "SHM"
+  },
+  {
+    "name": "河马兽",
+    "pinyin": "HeMaShou",
+    "pinyinInitials": "HMS"
+  },
+  {
+    "name": "钳尾蝎",
+    "pinyin": "QianWeiXie",
+    "pinyinInitials": "QWX"
+  },
+  {
+    "name": "龙王蝎",
+    "pinyin": "LongWangXie",
+    "pinyinInitials": "LWX"
+  },
+  {
+    "name": "不良蛙",
+    "pinyin": "BuLiangWa",
+    "pinyinInitials": "BLW"
+  },
+  {
+    "name": "毒骷蛙",
+    "pinyin": "DuKuWa",
+    "pinyinInitials": "DKW"
+  },
+  {
+    "name": "尖牙笼",
+    "pinyin": "JianYaLong",
+    "pinyinInitials": "JYL"
+  },
+  {
+    "name": "荧光鱼",
+    "pinyin": "YingGuangYu",
+    "pinyinInitials": "YGY"
+  },
+  {
+    "name": "霓虹鱼",
+    "pinyin": "NiHongYu",
+    "pinyinInitials": "NHY"
+  },
+  {
+    "name": "小球飞鱼",
+    "pinyin": "XiaoQiuFeiYu",
+    "pinyinInitials": "XQFY"
+  },
+  {
+    "name": "雪笠怪",
+    "pinyin": "XueLiGuai",
+    "pinyinInitials": "XLG"
+  },
+  {
+    "name": "暴雪王",
+    "pinyin": "BaoXueWang",
+    "pinyinInitials": "BXW"
+  },
+  {
+    "name": "玛狃拉",
+    "pinyin": "MaNiuLa",
+    "pinyinInitials": "MNL"
+  },
+  {
+    "name": "自爆磁怪",
+    "pinyin": "ZiBaoCiGuai",
+    "pinyinInitials": "ZBCG"
+  },
+  {
+    "name": "大舌舔",
+    "pinyin": "DaSheTian",
+    "pinyinInitials": "DST"
+  },
+  {
+    "name": "超甲狂犀",
+    "pinyin": "ChaoJiaKuangXi",
+    "pinyinInitials": "CJKX"
+  },
+  {
+    "name": "巨蔓藤",
+    "pinyin": "JuManTeng",
+    "pinyinInitials": "JMT"
+  },
+  {
+    "name": "电击魔兽",
+    "pinyin": "DianJiMoShou",
+    "pinyinInitials": "DJMS"
+  },
+  {
+    "name": "鸭嘴炎兽",
+    "pinyin": "YaZuiYanShou",
+    "pinyinInitials": "YZYS"
+  },
+  {
+    "name": "波克基斯",
+    "pinyin": "BoKeJiSi",
+    "pinyinInitials": "BKJS"
+  },
+  {
+    "name": "远古巨蜓",
+    "pinyin": "YuanGuJuTing",
+    "pinyinInitials": "YGJT"
+  },
+  {
+    "name": "叶伊布",
+    "pinyin": "YeYiBu",
+    "pinyinInitials": "YYB"
+  },
+  {
+    "name": "冰伊布",
+    "pinyin": "BingYiBu",
+    "pinyinInitials": "BYB"
+  },
+  {
+    "name": "天蝎王",
+    "pinyin": "TianXieWang",
+    "pinyinInitials": "TXW"
+  },
+  {
+    "name": "象牙猪",
+    "pinyin": "XiangYaZhu",
+    "pinyinInitials": "XYZ"
+  },
+  {
+    "name": "多边兽Ｚ",
+    "pinyin": "DuoBianShouＺ",
+    "pinyinInitials": "DBSＺ"
+  },
+  {
+    "name": "艾路雷朵",
+    "pinyin": "AiLuLeiDuo",
+    "pinyinInitials": "ALLD"
+  },
+  {
+    "name": "大朝北鼻",
+    "pinyin": "DaZhaoBeiBi",
+    "pinyinInitials": "DZBB"
+  },
+  {
+    "name": "黑夜魔灵",
+    "pinyin": "HeiYeMoLing",
+    "pinyinInitials": "HYML"
+  },
+  {
+    "name": "雪妖女",
+    "pinyin": "XueYaoNv",
+    "pinyinInitials": "XYN"
+  },
+  {
+    "name": "洛托姆",
+    "pinyin": "LuoTuoMu",
+    "pinyinInitials": "LTM"
+  },
+  {
+    "name": "由克希",
+    "pinyin": "YouKeXi",
+    "pinyinInitials": "YKX"
+  },
+  {
+    "name": "艾姆利多",
+    "pinyin": "AiMuLiDuo",
+    "pinyinInitials": "AMLD"
+  },
+  {
+    "name": "亚克诺姆",
+    "pinyin": "YaKeNuoMu",
+    "pinyinInitials": "YKNM"
+  },
+  {
+    "name": "帝牙卢卡",
+    "pinyin": "DiYaLuKa",
+    "pinyinInitials": "DYLK"
+  },
+  {
+    "name": "帕路奇亚",
+    "pinyin": "PaLuQiYa",
+    "pinyinInitials": "PLQY"
+  },
+  {
+    "name": "席多蓝恩",
+    "pinyin": "XiDuoLanEn",
+    "pinyinInitials": "XDLE"
+  },
+  {
+    "name": "雷吉奇卡斯",
+    "pinyin": "LeiJiQiKaSi",
+    "pinyinInitials": "LJQKS"
+  },
+  {
+    "name": "骑拉帝纳",
+    "pinyin": "QiLaDiNa",
+    "pinyinInitials": "QLDN"
+  },
+  {
+    "name": "克雷色利亚",
+    "pinyin": "KeLeiSeLiYa",
+    "pinyinInitials": "KLSLY"
+  },
+  {
+    "name": "霏欧纳",
+    "pinyin": "FeiOuNa",
+    "pinyinInitials": "FON"
+  },
+  {
+    "name": "玛纳霏",
+    "pinyin": "MaNaFei",
+    "pinyinInitials": "MNF"
+  },
+  {
+    "name": "达克莱伊",
+    "pinyin": "DaKeLaiYi",
+    "pinyinInitials": "DKLY"
+  },
+  {
+    "name": "谢米",
+    "pinyin": "XieMi",
+    "pinyinInitials": "XM"
+  },
+  {
+    "name": "阿尔宙斯",
+    "pinyin": "AErZhouSi",
+    "pinyinInitials": "AEZS"
+  },
+  {
+    "name": "比克提尼",
+    "pinyin": "BiKeTiNi",
+    "pinyinInitials": "BKTN"
+  },
+  {
+    "name": "藤藤蛇",
+    "pinyin": "TengTengShe",
+    "pinyinInitials": "TTS"
+  },
+  {
+    "name": "青藤蛇",
+    "pinyin": "QingTengShe",
+    "pinyinInitials": "QTS"
+  },
+  {
+    "name": "君主蛇",
+    "pinyin": "JunZhuShe",
+    "pinyinInitials": "JZS"
+  },
+  {
+    "name": "暖暖猪",
+    "pinyin": "NuanNuanZhu",
+    "pinyinInitials": "NNZ"
+  },
+  {
+    "name": "炒炒猪",
+    "pinyin": "ChaoChaoZhu",
+    "pinyinInitials": "CCZ"
+  },
+  {
+    "name": "炎武王",
+    "pinyin": "YanWuWang",
+    "pinyinInitials": "YWW"
+  },
+  {
+    "name": "水水獭",
+    "pinyin": "ShuiShuiTa",
+    "pinyinInitials": "SST"
+  },
+  {
+    "name": "双刃丸",
+    "pinyin": "ShuangRenWan",
+    "pinyinInitials": "SRW"
+  },
+  {
+    "name": "大剑鬼",
+    "pinyin": "DaJianGui",
+    "pinyinInitials": "DJG"
+  },
+  {
+    "name": "探探鼠",
+    "pinyin": "TanTanShu",
+    "pinyinInitials": "TTS"
+  },
+  {
+    "name": "步哨鼠",
+    "pinyin": "BuShaoShu",
+    "pinyinInitials": "BSS"
+  },
+  {
+    "name": "小约克",
+    "pinyin": "XiaoYueKe",
+    "pinyinInitials": "XYK"
+  },
+  {
+    "name": "哈约克",
+    "pinyin": "HaYueKe",
+    "pinyinInitials": "HYK"
+  },
+  {
+    "name": "长毛狗",
+    "pinyin": "ChangMaoGou",
+    "pinyinInitials": "CMG"
+  },
+  {
+    "name": "扒手猫",
+    "pinyin": "BaShouMao",
+    "pinyinInitials": "BSM"
+  },
+  {
+    "name": "酷豹",
+    "pinyin": "KuBao",
+    "pinyinInitials": "KB"
+  },
+  {
+    "name": "花椰猴",
+    "pinyin": "HuaYeHou",
+    "pinyinInitials": "HYH"
+  },
+  {
+    "name": "花椰猿",
+    "pinyin": "HuaYeYuan",
+    "pinyinInitials": "HYY"
+  },
+  {
+    "name": "爆香猴",
+    "pinyin": "BaoXiangHou",
+    "pinyinInitials": "BXH"
+  },
+  {
+    "name": "爆香猿",
+    "pinyin": "BaoXiangYuan",
+    "pinyinInitials": "BXY"
+  },
+  {
+    "name": "冷水猴",
+    "pinyin": "LengShuiHou",
+    "pinyinInitials": "LSH"
+  },
+  {
+    "name": "冷水猿",
+    "pinyin": "LengShuiYuan",
+    "pinyinInitials": "LSY"
+  },
+  {
+    "name": "食梦梦",
+    "pinyin": "ShiMengMeng",
+    "pinyinInitials": "SMM"
+  },
+  {
+    "name": "梦梦蚀",
+    "pinyin": "MengMengShi",
+    "pinyinInitials": "MMS"
+  },
+  {
+    "name": "豆豆鸽",
+    "pinyin": "DouDouGe",
+    "pinyinInitials": "DDG"
+  },
+  {
+    "name": "咕咕鸽",
+    "pinyin": "GuGuGe",
+    "pinyinInitials": "GGG"
+  },
+  {
+    "name": "高傲雉鸡",
+    "pinyin": "GaoAoZhiJi",
+    "pinyinInitials": "GAZJ"
+  },
+  {
+    "name": "斑斑马",
+    "pinyin": "BanBanMa",
+    "pinyinInitials": "BBM"
+  },
+  {
+    "name": "雷电斑马",
+    "pinyin": "LeiDianBanMa",
+    "pinyinInitials": "LDBM"
+  },
+  {
+    "name": "石丸子",
+    "pinyin": "ShiWanZi",
+    "pinyinInitials": "SWZ"
+  },
+  {
+    "name": "地幔岩",
+    "pinyin": "DiManYan",
+    "pinyinInitials": "DMY"
+  },
+  {
+    "name": "庞岩怪",
+    "pinyin": "PangYanGuai",
+    "pinyinInitials": "PYG"
+  },
+  {
+    "name": "滚滚蝙蝠",
+    "pinyin": "GunGunBianFu",
+    "pinyinInitials": "GGBF"
+  },
+  {
+    "name": "心蝙蝠",
+    "pinyin": "XinBianFu",
+    "pinyinInitials": "XBF"
+  },
+  {
+    "name": "螺钉地鼠",
+    "pinyin": "LuoDingDiShu",
+    "pinyinInitials": "LDDS"
+  },
+  {
+    "name": "龙头地鼠",
+    "pinyin": "LongTouDiShu",
+    "pinyinInitials": "LTDS"
+  },
+  {
+    "name": "差不多娃娃",
+    "pinyin": "ChaBuDuoWaWa",
+    "pinyinInitials": "CBDWW"
+  },
+  {
+    "name": "搬运小匠",
+    "pinyin": "BanYunXiaoJiang",
+    "pinyinInitials": "BYXJ"
+  },
+  {
+    "name": "铁骨土人",
+    "pinyin": "TieGuTuRen",
+    "pinyinInitials": "TGTR"
+  },
+  {
+    "name": "修建老匠",
+    "pinyin": "XiuJianLaoJiang",
+    "pinyinInitials": "XJLJ"
+  },
+  {
+    "name": "圆蝌蚪",
+    "pinyin": "YuanKeDou",
+    "pinyinInitials": "YKD"
+  },
+  {
+    "name": "蓝蟾蜍",
+    "pinyin": "LanChanChu",
+    "pinyinInitials": "LCC"
+  },
+  {
+    "name": "蟾蜍王",
+    "pinyin": "ChanChuWang",
+    "pinyinInitials": "CCW"
+  },
+  {
+    "name": "投摔鬼",
+    "pinyin": "TouShuaiGui",
+    "pinyinInitials": "TSG"
+  },
+  {
+    "name": "打击鬼",
+    "pinyin": "DaJiGui",
+    "pinyinInitials": "DJG"
+  },
+  {
+    "name": "虫宝包",
+    "pinyin": "ChongBaoBao",
+    "pinyinInitials": "CBB"
+  },
+  {
+    "name": "宝包茧",
+    "pinyin": "BaoBaoJian",
+    "pinyinInitials": "BBJ"
+  },
+  {
+    "name": "保姆虫",
+    "pinyin": "BaoMuChong",
+    "pinyinInitials": "BMC"
+  },
+  {
+    "name": "百足蜈蚣",
+    "pinyin": "BaiZuWuGong",
+    "pinyinInitials": "BZWG"
+  },
+  {
+    "name": "车轮球",
+    "pinyin": "CheLunQiu",
+    "pinyinInitials": "CLQ"
+  },
+  {
+    "name": "蜈蚣王",
+    "pinyin": "WuGongWang",
+    "pinyinInitials": "WGW"
+  },
+  {
+    "name": "木棉球",
+    "pinyin": "MuMianQiu",
+    "pinyinInitials": "MMQ"
+  },
+  {
+    "name": "风妖精",
+    "pinyin": "FengYaoJing",
+    "pinyinInitials": "FYJ"
+  },
+  {
+    "name": "百合根娃娃",
+    "pinyin": "BaiHeGenWaWa",
+    "pinyinInitials": "BHGWW"
+  },
+  {
+    "name": "裙儿小姐",
+    "pinyin": "QunErXiaoJie",
+    "pinyinInitials": "QEXJ"
+  },
+  {
+    "name": "野蛮鲈鱼",
+    "pinyin": "YeManLuYu",
+    "pinyinInitials": "YMLY"
+  },
+  {
+    "name": "黑眼鳄",
+    "pinyin": "HeiYanE",
+    "pinyinInitials": "HYE"
+  },
+  {
+    "name": "混混鳄",
+    "pinyin": "HunHunE",
+    "pinyinInitials": "HHE"
+  },
+  {
+    "name": "流氓鳄",
+    "pinyin": "LiuMangE",
+    "pinyinInitials": "LME"
+  },
+  {
+    "name": "火红不倒翁",
+    "pinyin": "HuoHongBuDaoWeng",
+    "pinyinInitials": "HHBDW"
+  },
+  {
+    "name": "达摩狒狒",
+    "pinyin": "DaMoFeiFei",
+    "pinyinInitials": "DMFF"
+  },
+  {
+    "name": "沙铃仙人掌",
+    "pinyin": "ShaLingXianRenZhang",
+    "pinyinInitials": "SLXRZ"
+  },
+  {
+    "name": "石居蟹",
+    "pinyin": "ShiJuXie",
+    "pinyinInitials": "SJX"
+  },
+  {
+    "name": "岩殿居蟹",
+    "pinyin": "YanDianJuXie",
+    "pinyinInitials": "YDJX"
+  },
+  {
+    "name": "滑滑小子",
+    "pinyin": "HuaHuaXiaoZi",
+    "pinyinInitials": "HHXZ"
+  },
+  {
+    "name": "头巾混混",
+    "pinyin": "TouJinHunHun",
+    "pinyinInitials": "TJHH"
+  },
+  {
+    "name": "象征鸟",
+    "pinyin": "XiangZhengNiao",
+    "pinyinInitials": "XZN"
+  },
+  {
+    "name": "哭哭面具",
+    "pinyin": "KuKuMianJu",
+    "pinyinInitials": "KKMJ"
+  },
+  {
+    "name": "死神棺",
+    "pinyin": "SiShenGuan",
+    "pinyinInitials": "SSG"
+  },
+  {
+    "name": "原盖海龟",
+    "pinyin": "YuanGaiHaiGui",
+    "pinyinInitials": "YGHG"
+  },
+  {
+    "name": "肋骨海龟",
+    "pinyin": "LeiGuHaiGui",
+    "pinyinInitials": "LGHG"
+  },
+  {
+    "name": "始祖小鸟",
+    "pinyin": "ShiZuXiaoNiao",
+    "pinyinInitials": "SZXN"
+  },
+  {
+    "name": "始祖大鸟",
+    "pinyin": "ShiZuDaNiao",
+    "pinyinInitials": "SZDN"
+  },
+  {
+    "name": "破破袋",
+    "pinyin": "PoPoDai",
+    "pinyinInitials": "PPD"
+  },
+  {
+    "name": "灰尘山",
+    "pinyin": "HuiChenShan",
+    "pinyinInitials": "HCS"
+  },
+  {
+    "name": "索罗亚",
+    "pinyin": "SuoLuoYa",
+    "pinyinInitials": "SLY"
+  },
+  {
+    "name": "索罗亚克",
+    "pinyin": "SuoLuoYaKe",
+    "pinyinInitials": "SLYK"
+  },
+  {
+    "name": "泡沫栗鼠",
+    "pinyin": "PaoMoLiShu",
+    "pinyinInitials": "PMLS"
+  },
+  {
+    "name": "奇诺栗鼠",
+    "pinyin": "QiNuoLiShu",
+    "pinyinInitials": "QNLS"
+  },
+  {
+    "name": "哥德宝宝",
+    "pinyin": "GeDeBaoBao",
+    "pinyinInitials": "GDBB"
+  },
+  {
+    "name": "哥德小童",
+    "pinyin": "GeDeXiaoTong",
+    "pinyinInitials": "GDXT"
+  },
+  {
+    "name": "哥德小姐",
+    "pinyin": "GeDeXiaoJie",
+    "pinyinInitials": "GDXJ"
+  },
+  {
+    "name": "单卵细胞球",
+    "pinyin": "DanLuanXiBaoQiu",
+    "pinyinInitials": "DLXBQ"
+  },
+  {
+    "name": "双卵细胞球",
+    "pinyin": "ShuangLuanXiBaoQiu",
+    "pinyinInitials": "SLXBQ"
+  },
+  {
+    "name": "人造细胞卵",
+    "pinyin": "RenZaoXiBaoLuan",
+    "pinyinInitials": "RZXBL"
+  },
+  {
+    "name": "鸭宝宝",
+    "pinyin": "YaBaoBao",
+    "pinyinInitials": "YBB"
+  },
+  {
+    "name": "舞天鹅",
+    "pinyin": "WuTianE",
+    "pinyinInitials": "WTE"
+  },
+  {
+    "name": "迷你冰",
+    "pinyin": "MiNiBing",
+    "pinyinInitials": "MNB"
+  },
+  {
+    "name": "多多冰",
+    "pinyin": "DuoDuoBing",
+    "pinyinInitials": "DDB"
+  },
+  {
+    "name": "双倍多多冰",
+    "pinyin": "ShuangBeiDuoDuoBing",
+    "pinyinInitials": "SBDDB"
+  },
+  {
+    "name": "四季鹿",
+    "pinyin": "SiJiLu",
+    "pinyinInitials": "SJL"
+  },
+  {
+    "name": "萌芽鹿",
+    "pinyin": "MengYaLu",
+    "pinyinInitials": "MYL"
+  },
+  {
+    "name": "电飞鼠",
+    "pinyin": "DianFeiShu",
+    "pinyinInitials": "DFS"
+  },
+  {
+    "name": "盖盖虫",
+    "pinyin": "GaiGaiChong",
+    "pinyinInitials": "GGC"
+  },
+  {
+    "name": "骑士蜗牛",
+    "pinyin": "QiShiWoNiu",
+    "pinyinInitials": "QSWN"
+  },
+  {
+    "name": "哎呀球菇",
+    "pinyin": "AiYaQiuGu",
+    "pinyinInitials": "AYQG"
+  },
+  {
+    "name": "败露球菇",
+    "pinyin": "BaiLouQiuGu",
+    "pinyinInitials": "BLQG"
+  },
+  {
+    "name": "轻飘飘",
+    "pinyin": "QingPiaoPiao",
+    "pinyinInitials": "QPP"
+  },
+  {
+    "name": "胖嘟嘟",
+    "pinyin": "PangDuDu",
+    "pinyinInitials": "PDD"
+  },
+  {
+    "name": "保姆曼波",
+    "pinyin": "BaoMuManBo",
+    "pinyinInitials": "BMMB"
+  },
+  {
+    "name": "电电虫",
+    "pinyin": "DianDianChong",
+    "pinyinInitials": "DDC"
+  },
+  {
+    "name": "电蜘蛛",
+    "pinyin": "DianZhiZhu",
+    "pinyinInitials": "DZZ"
+  },
+  {
+    "name": "种子铁球",
+    "pinyin": "ZhongZiTieQiu",
+    "pinyinInitials": "ZZTQ"
+  },
+  {
+    "name": "坚果哑铃",
+    "pinyin": "JianGuoYaLing",
+    "pinyinInitials": "JGYL"
+  },
+  {
+    "name": "齿轮儿",
+    "pinyin": "ChiLunEr",
+    "pinyinInitials": "CLE"
+  },
+  {
+    "name": "齿轮组",
+    "pinyin": "ChiLunZu",
+    "pinyinInitials": "CLZ"
+  },
+  {
+    "name": "齿轮怪",
+    "pinyin": "ChiLunGuai",
+    "pinyinInitials": "CLG"
+  },
+  {
+    "name": "麻麻小鱼",
+    "pinyin": "MaMaXiaoYu",
+    "pinyinInitials": "MMXY"
+  },
+  {
+    "name": "麻麻鳗",
+    "pinyin": "MaMaMan",
+    "pinyinInitials": "MMM"
+  },
+  {
+    "name": "麻麻鳗鱼王",
+    "pinyin": "MaMaManYuWang",
+    "pinyinInitials": "MMMYW"
+  },
+  {
+    "name": "小灰怪",
+    "pinyin": "XiaoHuiGuai",
+    "pinyinInitials": "XHG"
+  },
+  {
+    "name": "大宇怪",
+    "pinyin": "DaYuGuai",
+    "pinyinInitials": "DYG"
+  },
+  {
+    "name": "烛光灵",
+    "pinyin": "ZhuGuangLing",
+    "pinyinInitials": "ZGL"
+  },
+  {
+    "name": "灯火幽灵",
+    "pinyin": "DengHuoYouLing",
+    "pinyinInitials": "DHYL"
+  },
+  {
+    "name": "水晶灯火灵",
+    "pinyin": "ShuiJingDengHuoLing",
+    "pinyinInitials": "SJDHL"
+  },
+  {
+    "name": "牙牙",
+    "pinyin": "YaYa",
+    "pinyinInitials": "YY"
+  },
+  {
+    "name": "斧牙龙",
+    "pinyin": "FuYaLong",
+    "pinyinInitials": "FYL"
+  },
+  {
+    "name": "双斧战龙",
+    "pinyin": "ShuangFuZhanLong",
+    "pinyinInitials": "SFZL"
+  },
+  {
+    "name": "喷嚏熊",
+    "pinyin": "PenTiXiong",
+    "pinyinInitials": "PTX"
+  },
+  {
+    "name": "冻原熊",
+    "pinyin": "DongYuanXiong",
+    "pinyinInitials": "DYX"
+  },
+  {
+    "name": "几何雪花",
+    "pinyin": "JiHeXueHua",
+    "pinyinInitials": "JHXH"
+  },
+  {
+    "name": "小嘴蜗",
+    "pinyin": "XiaoZuiWo",
+    "pinyinInitials": "XZW"
+  },
+  {
+    "name": "敏捷虫",
+    "pinyin": "MinJieChong",
+    "pinyinInitials": "MJC"
+  },
+  {
+    "name": "泥巴鱼",
+    "pinyin": "NiBaYu",
+    "pinyinInitials": "NBY"
+  },
+  {
+    "name": "功夫鼬",
+    "pinyin": "GongFuYou",
+    "pinyinInitials": "GFY"
+  },
+  {
+    "name": "师父鼬",
+    "pinyin": "ShiFuYou",
+    "pinyinInitials": "SFY"
+  },
+  {
+    "name": "赤面龙",
+    "pinyin": "ChiMianLong",
+    "pinyinInitials": "CML"
+  },
+  {
+    "name": "泥偶小人",
+    "pinyin": "NiOuXiaoRen",
+    "pinyinInitials": "NOXR"
+  },
+  {
+    "name": "泥偶巨人",
+    "pinyin": "NiOuJuRen",
+    "pinyinInitials": "NOJR"
+  },
+  {
+    "name": "驹刀小兵",
+    "pinyin": "JuDaoXiaoBing",
+    "pinyinInitials": "JDXB"
+  },
+  {
+    "name": "劈斩司令",
+    "pinyin": "PiZhanSiLing",
+    "pinyinInitials": "PZSL"
+  },
+  {
+    "name": "爆炸头水牛",
+    "pinyin": "BaoZhaTouShuiNiu",
+    "pinyinInitials": "BZTSN"
+  },
+  {
+    "name": "毛头小鹰",
+    "pinyin": "MaoTouXiaoYing",
+    "pinyinInitials": "MTXY"
+  },
+  {
+    "name": "勇士雄鹰",
+    "pinyin": "YongShiXiongYing",
+    "pinyinInitials": "YSXY"
+  },
+  {
+    "name": "秃鹰丫头",
+    "pinyin": "TuYingYaTou",
+    "pinyinInitials": "TYYT"
+  },
+  {
+    "name": "秃鹰娜",
+    "pinyin": "TuYingNa",
+    "pinyinInitials": "TYN"
+  },
+  {
+    "name": "熔蚁兽",
+    "pinyin": "RongYiShou",
+    "pinyinInitials": "RYS"
+  },
+  {
+    "name": "铁蚁",
+    "pinyin": "TieYi",
+    "pinyinInitials": "TY"
+  },
+  {
+    "name": "单首龙",
+    "pinyin": "DanShouLong",
+    "pinyinInitials": "DSL"
+  },
+  {
+    "name": "双首暴龙",
+    "pinyin": "ShuangShouBaoLong",
+    "pinyinInitials": "SSBL"
+  },
+  {
+    "name": "三首恶龙",
+    "pinyin": "SanShouELong",
+    "pinyinInitials": "SSEL"
+  },
+  {
+    "name": "燃烧虫",
+    "pinyin": "RanShaoChong",
+    "pinyinInitials": "RSC"
+  },
+  {
+    "name": "火神蛾",
+    "pinyin": "HuoShenE",
+    "pinyinInitials": "HSE"
+  },
+  {
+    "name": "勾帕路翁",
+    "pinyin": "GouPaLuWeng",
+    "pinyinInitials": "GPLW"
+  },
+  {
+    "name": "代拉基翁",
+    "pinyin": "DaiLaJiWeng",
+    "pinyinInitials": "DLJW"
+  },
+  {
+    "name": "毕力吉翁",
+    "pinyin": "BiLiJiWeng",
+    "pinyinInitials": "BLJW"
+  },
+  {
+    "name": "龙卷云",
+    "pinyin": "LongJuanYun",
+    "pinyinInitials": "LJY"
+  },
+  {
+    "name": "雷电云",
+    "pinyin": "LeiDianYun",
+    "pinyinInitials": "LDY"
+  },
+  {
+    "name": "莱希拉姆",
+    "pinyin": "LaiXiLaMu",
+    "pinyinInitials": "LXLM"
+  },
+  {
+    "name": "捷克罗姆",
+    "pinyin": "JieKeLuoMu",
+    "pinyinInitials": "JKLM"
+  },
+  {
+    "name": "土地云",
+    "pinyin": "TuDiYun",
+    "pinyinInitials": "TDY"
+  },
+  {
+    "name": "酋雷姆",
+    "pinyin": "QiuLeiMu",
+    "pinyinInitials": "QLM"
+  },
+  {
+    "name": "凯路迪欧",
+    "pinyin": "KaiLuDiOu",
+    "pinyinInitials": "KLDO"
+  },
+  {
+    "name": "美洛耶塔",
+    "pinyin": "MeiLuoYeTa",
+    "pinyinInitials": "MLYT"
+  },
+  {
+    "name": "盖诺赛克特",
+    "pinyin": "GaiNuoSaiKeTe",
+    "pinyinInitials": "GNSKT"
+  },
+  {
+    "name": "哈力栗",
+    "pinyin": "HaLiLi",
+    "pinyinInitials": "HLL"
+  },
+  {
+    "name": "胖胖哈力",
+    "pinyin": "PangPangHaLi",
+    "pinyinInitials": "PPHL"
+  },
+  {
+    "name": "布里卡隆",
+    "pinyin": "BuLiKaLong",
+    "pinyinInitials": "BLKL"
+  },
+  {
+    "name": "火狐狸",
+    "pinyin": "HuoHuLi",
+    "pinyinInitials": "HHL"
+  },
+  {
+    "name": "长尾火狐",
+    "pinyin": "ChangWeiHuoHu",
+    "pinyinInitials": "CWHH"
+  },
+  {
+    "name": "妖火红狐",
+    "pinyin": "YaoHuoHongHu",
+    "pinyinInitials": "YHHH"
+  },
+  {
+    "name": "呱呱泡蛙",
+    "pinyin": "GuaGuaPaoWa",
+    "pinyinInitials": "GGPW"
+  },
+  {
+    "name": "呱头蛙",
+    "pinyin": "GuaTouWa",
+    "pinyinInitials": "GTW"
+  },
+  {
+    "name": "甲贺忍蛙",
+    "pinyin": "JiaHeRenWa",
+    "pinyinInitials": "JHRW"
+  },
+  {
+    "name": "掘掘兔",
+    "pinyin": "JueJueTu",
+    "pinyinInitials": "JJT"
+  },
+  {
+    "name": "掘地兔",
+    "pinyin": "JueDiTu",
+    "pinyinInitials": "JDT"
+  },
+  {
+    "name": "小箭雀",
+    "pinyin": "XiaoJianQue",
+    "pinyinInitials": "XJQ"
+  },
+  {
+    "name": "火箭雀",
+    "pinyin": "HuoJianQue",
+    "pinyinInitials": "HJQ"
+  },
+  {
+    "name": "烈箭鹰",
+    "pinyin": "LieJianYing",
+    "pinyinInitials": "LJY"
+  },
+  {
+    "name": "粉蝶虫",
+    "pinyin": "FenDieChong",
+    "pinyinInitials": "FDC"
+  },
+  {
+    "name": "粉蝶蛹",
+    "pinyin": "FenDieYong",
+    "pinyinInitials": "FDY"
+  },
+  {
+    "name": "彩粉蝶",
+    "pinyin": "CaiFenDie",
+    "pinyinInitials": "CFD"
+  },
+  {
+    "name": "小狮狮",
+    "pinyin": "XiaoShiShi",
+    "pinyinInitials": "XSS"
+  },
+  {
+    "name": "火炎狮",
+    "pinyin": "HuoYanShi",
+    "pinyinInitials": "HYS"
+  },
+  {
+    "name": "花蓓蓓",
+    "pinyin": "HuaBeiBei",
+    "pinyinInitials": "HBB"
+  },
+  {
+    "name": "花叶蒂",
+    "pinyin": "HuaYeDi",
+    "pinyinInitials": "HYD"
+  },
+  {
+    "name": "花洁夫人",
+    "pinyin": "HuaJieFuRen",
+    "pinyinInitials": "HJFR"
+  },
+  {
+    "name": "坐骑小羊",
+    "pinyin": "ZuoQiXiaoYang",
+    "pinyinInitials": "ZQXY"
+  },
+  {
+    "name": "坐骑山羊",
+    "pinyin": "ZuoQiShanYang",
+    "pinyinInitials": "ZQSY"
+  },
+  {
+    "name": "顽皮熊猫",
+    "pinyin": "WanPiXiongMao",
+    "pinyinInitials": "WPXM"
+  },
+  {
+    "name": "霸道熊猫",
+    "pinyin": "BaDaoXiongMao",
+    "pinyinInitials": "BDXM"
+  },
+  {
+    "name": "多丽米亚",
+    "pinyin": "DuoLiMiYa",
+    "pinyinInitials": "DLMY"
+  },
+  {
+    "name": "妙喵",
+    "pinyin": "MiaoMiao",
+    "pinyinInitials": "MM"
+  },
+  {
+    "name": "超能妙喵",
+    "pinyin": "ChaoNengMiaoMiao",
+    "pinyinInitials": "CNMM"
+  },
+  {
+    "name": "独剑鞘",
+    "pinyin": "DuJianQiao",
+    "pinyinInitials": "DJQ"
+  },
+  {
+    "name": "双剑鞘",
+    "pinyin": "ShuangJianQiao",
+    "pinyinInitials": "SJQ"
+  },
+  {
+    "name": "坚盾剑怪",
+    "pinyin": "JianDunJianGuai",
+    "pinyinInitials": "JDJG"
+  },
+  {
+    "name": "粉香香",
+    "pinyin": "FenXiangXiang",
+    "pinyinInitials": "FXX"
+  },
+  {
+    "name": "芳香精",
+    "pinyin": "FangXiangJing",
+    "pinyinInitials": "FXJ"
+  },
+  {
+    "name": "绵绵泡芙",
+    "pinyin": "MianMianPaoFu",
+    "pinyinInitials": "MMPF"
+  },
+  {
+    "name": "胖甜妮",
+    "pinyin": "PangTianNi",
+    "pinyinInitials": "PTN"
+  },
+  {
+    "name": "好啦鱿",
+    "pinyin": "HaoLaYou",
+    "pinyinInitials": "HLY"
+  },
+  {
+    "name": "乌贼王",
+    "pinyin": "WuZeiWang",
+    "pinyinInitials": "WZW"
+  },
+  {
+    "name": "龟脚脚",
+    "pinyin": "GuiJiaoJiao",
+    "pinyinInitials": "GJJ"
+  },
+  {
+    "name": "龟足巨铠",
+    "pinyin": "GuiZuJuKai",
+    "pinyinInitials": "GZJK"
+  },
+  {
+    "name": "垃垃藻",
+    "pinyin": "LaLaZao",
+    "pinyinInitials": "LLZ"
+  },
+  {
+    "name": "毒藻龙",
+    "pinyin": "DuZaoLong",
+    "pinyinInitials": "DZL"
+  },
+  {
+    "name": "铁臂枪虾",
+    "pinyin": "TieBiQiangXia",
+    "pinyinInitials": "TBQX"
+  },
+  {
+    "name": "钢炮臂虾",
+    "pinyin": "GangPaoBiXia",
+    "pinyinInitials": "GPBX"
+  },
+  {
+    "name": "伞电蜥",
+    "pinyin": "SanDianXi",
+    "pinyinInitials": "SDX"
+  },
+  {
+    "name": "光电伞蜥",
+    "pinyin": "GuangDianSanXi",
+    "pinyinInitials": "GDSX"
+  },
+  {
+    "name": "宝宝暴龙",
+    "pinyin": "BaoBaoBaoLong",
+    "pinyinInitials": "BBBL"
+  },
+  {
+    "name": "怪颚龙",
+    "pinyin": "GuaiELong",
+    "pinyinInitials": "GEL"
+  },
+  {
+    "name": "冰雪龙",
+    "pinyin": "BingXueLong",
+    "pinyinInitials": "BXL"
+  },
+  {
+    "name": "冰雪巨龙",
+    "pinyin": "BingXueJuLong",
+    "pinyinInitials": "BXJL"
+  },
+  {
+    "name": "仙子伊布",
+    "pinyin": "XianZiYiBu",
+    "pinyinInitials": "XZYB"
+  },
+  {
+    "name": "摔角鹰人",
+    "pinyin": "ShuaiJiaoYingRen",
+    "pinyinInitials": "SJYR"
+  },
+  {
+    "name": "咚咚鼠",
+    "pinyin": "DongDongShu",
+    "pinyinInitials": "DDS"
+  },
+  {
+    "name": "小碎钻",
+    "pinyin": "XiaoSuiZuan",
+    "pinyinInitials": "XSZ"
+  },
+  {
+    "name": "黏黏宝",
+    "pinyin": "NianNianBao",
+    "pinyinInitials": "NNB"
+  },
+  {
+    "name": "黏美儿",
+    "pinyin": "NianMeiEr",
+    "pinyinInitials": "NME"
+  },
+  {
+    "name": "黏美龙",
+    "pinyin": "NianMeiLong",
+    "pinyinInitials": "NML"
+  },
+  {
+    "name": "钥圈儿",
+    "pinyin": "YueQuanEr",
+    "pinyinInitials": "YQE"
+  },
+  {
+    "name": "小木灵",
+    "pinyin": "XiaoMuLing",
+    "pinyinInitials": "XML"
+  },
+  {
+    "name": "朽木妖",
+    "pinyin": "XiuMuYao",
+    "pinyinInitials": "XMY"
+  },
+  {
+    "name": "南瓜精",
+    "pinyin": "NanGuaJing",
+    "pinyinInitials": "NGJ"
+  },
+  {
+    "name": "南瓜怪人",
+    "pinyin": "NanGuaGuaiRen",
+    "pinyinInitials": "NGGR"
+  },
+  {
+    "name": "冰宝",
+    "pinyin": "BingBao",
+    "pinyinInitials": "BB"
+  },
+  {
+    "name": "冰岩怪",
+    "pinyin": "BingYanGuai",
+    "pinyinInitials": "BYG"
+  },
+  {
+    "name": "嗡蝠",
+    "pinyin": "WengFu",
+    "pinyinInitials": "WF"
+  },
+  {
+    "name": "音波龙",
+    "pinyin": "YinBoLong",
+    "pinyinInitials": "YBL"
+  },
+  {
+    "name": "哲尔尼亚斯",
+    "pinyin": "ZheErNiYaSi",
+    "pinyinInitials": "ZENYS"
+  },
+  {
+    "name": "伊裴尔塔尔",
+    "pinyin": "YiPeiErTaEr",
+    "pinyinInitials": "YPETE"
+  },
+  {
+    "name": "基格尔德",
+    "pinyin": "JiGeErDe",
+    "pinyinInitials": "JGED"
+  },
+  {
+    "name": "蒂安希",
+    "pinyin": "DiAnXi",
+    "pinyinInitials": "DAX"
+  },
+  {
+    "name": "胡帕",
+    "pinyin": "HuPa",
+    "pinyinInitials": "HP"
+  },
+  {
+    "name": "波尔凯尼恩",
+    "pinyin": "BoErKaiNiEn",
+    "pinyinInitials": "BEKNE"
+  },
+  {
+    "name": "木木枭",
+    "pinyin": "MuMuXiao",
+    "pinyinInitials": "MMX"
+  },
+  {
+    "name": "投羽枭",
+    "pinyin": "TouYuXiao",
+    "pinyinInitials": "TYX"
+  },
+  {
+    "name": "狙射树枭",
+    "pinyin": "JuSheShuXiao",
+    "pinyinInitials": "JSSX"
+  },
+  {
+    "name": "火斑喵",
+    "pinyin": "HuoBanMiao",
+    "pinyinInitials": "HBM"
+  },
+  {
+    "name": "炎热喵",
+    "pinyin": "YanReMiao",
+    "pinyinInitials": "YRM"
+  },
+  {
+    "name": "炽焰咆哮虎",
+    "pinyin": "ChiYanPaoXiaoHu",
+    "pinyinInitials": "CYPXH"
+  },
+  {
+    "name": "球球海狮",
+    "pinyin": "QiuQiuHaiShi",
+    "pinyinInitials": "QQHS"
+  },
+  {
+    "name": "花漾海狮",
+    "pinyin": "HuaYangHaiShi",
+    "pinyinInitials": "HYHS"
+  },
+  {
+    "name": "西狮海壬",
+    "pinyin": "XiShiHaiRen",
+    "pinyinInitials": "XSHR"
+  },
+  {
+    "name": "小笃儿",
+    "pinyin": "XiaoDuEr",
+    "pinyinInitials": "XDE"
+  },
+  {
+    "name": "喇叭啄鸟",
+    "pinyin": "LaBaZhuoNiao",
+    "pinyinInitials": "LBZN"
+  },
+  {
+    "name": "铳嘴大鸟",
+    "pinyin": "ChongZuiDaNiao",
+    "pinyinInitials": "CZDN"
+  },
+  {
+    "name": "猫鼬少",
+    "pinyin": "MaoYouShao",
+    "pinyinInitials": "MYS"
+  },
+  {
+    "name": "猫鼬探长",
+    "pinyin": "MaoYouTanChang",
+    "pinyinInitials": "MYTC"
+  },
+  {
+    "name": "强颚鸡母虫",
+    "pinyin": "QiangEJiMuChong",
+    "pinyinInitials": "QEJMC"
+  },
+  {
+    "name": "虫电宝",
+    "pinyin": "ChongDianBao",
+    "pinyinInitials": "CDB"
+  },
+  {
+    "name": "锹农炮虫",
+    "pinyin": "QiaoNongPaoChong",
+    "pinyinInitials": "QNPC"
+  },
+  {
+    "name": "好胜蟹",
+    "pinyin": "HaoShengXie",
+    "pinyinInitials": "HSX"
+  },
+  {
+    "name": "好胜毛蟹",
+    "pinyin": "HaoShengMaoXie",
+    "pinyinInitials": "HSMX"
+  },
+  {
+    "name": "花舞鸟",
+    "pinyin": "HuaWuNiao",
+    "pinyinInitials": "HWN"
+  },
+  {
+    "name": "萌虻",
+    "pinyin": "MengMeng",
+    "pinyinInitials": "MM"
+  },
+  {
+    "name": "蝶结萌虻",
+    "pinyin": "DieJieMengMeng",
+    "pinyinInitials": "DJMM"
+  },
+  {
+    "name": "岩狗狗",
+    "pinyin": "YanGouGou",
+    "pinyinInitials": "YGG"
+  },
+  {
+    "name": "鬃岩狼人",
+    "pinyin": "ZongYanLangRen",
+    "pinyinInitials": "ZYLR"
+  },
+  {
+    "name": "弱丁鱼",
+    "pinyin": "RuoDingYu",
+    "pinyinInitials": "RDY"
+  },
+  {
+    "name": "好坏星",
+    "pinyin": "HaoHuaiXing",
+    "pinyinInitials": "HHX"
+  },
+  {
+    "name": "超坏星",
+    "pinyin": "ChaoHuaiXing",
+    "pinyinInitials": "CHX"
+  },
+  {
+    "name": "泥驴仔",
+    "pinyin": "NiLvZi",
+    "pinyinInitials": "NLZ"
+  },
+  {
+    "name": "重泥挽马",
+    "pinyin": "ZhongNiWanMa",
+    "pinyinInitials": "ZNWM"
+  },
+  {
+    "name": "滴蛛",
+    "pinyin": "DiZhu",
+    "pinyinInitials": "DZ"
+  },
+  {
+    "name": "滴蛛霸",
+    "pinyin": "DiZhuBa",
+    "pinyinInitials": "DZB"
+  },
+  {
+    "name": "伪螳草",
+    "pinyin": "WeiTangCao",
+    "pinyinInitials": "WTC"
+  },
+  {
+    "name": "兰螳花",
+    "pinyin": "LanTangHua",
+    "pinyinInitials": "LTH"
+  },
+  {
+    "name": "睡睡菇",
+    "pinyin": "ShuiShuiGu",
+    "pinyinInitials": "SSG"
+  },
+  {
+    "name": "灯罩夜菇",
+    "pinyin": "DengZhaoYeGu",
+    "pinyinInitials": "DZYG"
+  },
+  {
+    "name": "夜盗火蜥",
+    "pinyin": "YeDaoHuoXi",
+    "pinyinInitials": "YDHX"
+  },
+  {
+    "name": "焰后蜥",
+    "pinyin": "YanHouXi",
+    "pinyinInitials": "YHX"
+  },
+  {
+    "name": "童偶熊",
+    "pinyin": "TongOuXiong",
+    "pinyinInitials": "TOX"
+  },
+  {
+    "name": "穿着熊",
+    "pinyin": "ChuanZhaoXiong",
+    "pinyinInitials": "CZX"
+  },
+  {
+    "name": "甜竹竹",
+    "pinyin": "TianZhuZhu",
+    "pinyinInitials": "TZZ"
+  },
+  {
+    "name": "甜舞妮",
+    "pinyin": "TianWuNi",
+    "pinyinInitials": "TWN"
+  },
+  {
+    "name": "甜冷美后",
+    "pinyin": "TianLengMeiHou",
+    "pinyinInitials": "TLMH"
+  },
+  {
+    "name": "花疗环环",
+    "pinyin": "HuaLiaoHuanHuan",
+    "pinyinInitials": "HLHH"
+  },
+  {
+    "name": "智挥猩",
+    "pinyin": "ZhiHuiXing",
+    "pinyinInitials": "ZHX"
+  },
+  {
+    "name": "投掷猴",
+    "pinyin": "TouZhiHou",
+    "pinyinInitials": "TZH"
+  },
+  {
+    "name": "胆小虫",
+    "pinyin": "DanXiaoChong",
+    "pinyinInitials": "DXC"
+  },
+  {
+    "name": "具甲武者",
+    "pinyin": "JuJiaWuZhe",
+    "pinyinInitials": "JJWZ"
+  },
+  {
+    "name": "沙丘娃",
+    "pinyin": "ShaQiuWa",
+    "pinyinInitials": "SQW"
+  },
+  {
+    "name": "噬沙堡爷",
+    "pinyin": "ShiShaBaoYe",
+    "pinyinInitials": "SSBY"
+  },
+  {
+    "name": "拳海参",
+    "pinyin": "QuanHaiCan",
+    "pinyinInitials": "QHC"
+  },
+  {
+    "name": "属性：空",
+    "pinyin": "ShuXing：Kong",
+    "pinyinInitials": "SX：K"
+  },
+  {
+    "name": "银伴战兽",
+    "pinyin": "YinBanZhanShou",
+    "pinyinInitials": "YBZS"
+  },
+  {
+    "name": "小陨星",
+    "pinyin": "XiaoYunXing",
+    "pinyinInitials": "XYX"
+  },
+  {
+    "name": "树枕尾熊",
+    "pinyin": "ShuZhenWeiXiong",
+    "pinyinInitials": "SZWX"
+  },
+  {
+    "name": "爆焰龟兽",
+    "pinyin": "BaoYanGuiShou",
+    "pinyinInitials": "BYGS"
+  },
+  {
+    "name": "托戈德玛尔",
+    "pinyin": "TuoGeDeMaEr",
+    "pinyinInitials": "TGDME"
+  },
+  {
+    "name": "谜拟Ｑ",
+    "pinyin": "MiNiＱ",
+    "pinyinInitials": "MNＱ"
+  },
+  {
+    "name": "磨牙彩皮鱼",
+    "pinyin": "MoYaCaiPiYu",
+    "pinyinInitials": "MYCPY"
+  },
+  {
+    "name": "老翁龙",
+    "pinyin": "LaoWengLong",
+    "pinyinInitials": "LWL"
+  },
+  {
+    "name": "破破舵轮",
+    "pinyin": "PoPoDuoLun",
+    "pinyinInitials": "PPDL"
+  },
+  {
+    "name": "心鳞宝",
+    "pinyin": "XinLinBao",
+    "pinyinInitials": "XLB"
+  },
+  {
+    "name": "鳞甲龙",
+    "pinyin": "LinJiaLong",
+    "pinyinInitials": "LJL"
+  },
+  {
+    "name": "杖尾鳞甲龙",
+    "pinyin": "ZhangWeiLinJiaLong",
+    "pinyinInitials": "ZWLJL"
+  },
+  {
+    "name": "卡璞・鸣鸣",
+    "pinyin": "KaPu・MingMing",
+    "pinyinInitials": "KP・MM"
+  },
+  {
+    "name": "卡璞・蝶蝶",
+    "pinyin": "KaPu・DieDie",
+    "pinyinInitials": "KP・DD"
+  },
+  {
+    "name": "卡璞・哞哞",
+    "pinyin": "KaPu・MouMou",
+    "pinyinInitials": "KP・MM"
+  },
+  {
+    "name": "卡璞・鳍鳍",
+    "pinyin": "KaPu・QiQi",
+    "pinyinInitials": "KP・QQ"
+  },
+  {
+    "name": "科斯莫古",
+    "pinyin": "KeSiMoGu",
+    "pinyinInitials": "KSMG"
+  },
+  {
+    "name": "科斯莫姆",
+    "pinyin": "KeSiMoMu",
+    "pinyinInitials": "KSMM"
+  },
+  {
+    "name": "索尔迦雷欧",
+    "pinyin": "SuoErJiaLeiOu",
+    "pinyinInitials": "SEJLO"
+  },
+  {
+    "name": "露奈雅拉",
+    "pinyin": "LouNaiYaLa",
+    "pinyinInitials": "LNYL"
+  },
+  {
+    "name": "虚吾伊德",
+    "pinyin": "XuWuYiDe",
+    "pinyinInitials": "XWYD"
+  },
+  {
+    "name": "爆肌蚊",
+    "pinyin": "BaoJiWen",
+    "pinyinInitials": "BJW"
+  },
+  {
+    "name": "费洛美螂",
+    "pinyin": "FeiLuoMeiLang",
+    "pinyinInitials": "FLML"
+  },
+  {
+    "name": "电束木",
+    "pinyin": "DianShuMu",
+    "pinyinInitials": "DSM"
+  },
+  {
+    "name": "铁火辉夜",
+    "pinyin": "TieHuoHuiYe",
+    "pinyinInitials": "THHY"
+  },
+  {
+    "name": "纸御剑",
+    "pinyin": "ZhiYuJian",
+    "pinyinInitials": "ZYJ"
+  },
+  {
+    "name": "恶食大王",
+    "pinyin": "EShiDaWang",
+    "pinyinInitials": "ESDW"
+  },
+  {
+    "name": "奈克洛兹玛",
+    "pinyin": "NaiKeLuoZiMa",
+    "pinyinInitials": "NKLZM"
+  },
+  {
+    "name": "玛机雅娜",
+    "pinyin": "MaJiYaNa",
+    "pinyinInitials": "MJYN"
+  },
+  {
+    "name": "玛夏多",
+    "pinyin": "MaXiaDuo",
+    "pinyinInitials": "MXD"
+  },
+  {
+    "name": "毒贝比",
+    "pinyin": "DuBeiBi",
+    "pinyinInitials": "DBB"
+  },
+  {
+    "name": "四颚针龙",
+    "pinyin": "SiEZhenLong",
+    "pinyinInitials": "SEZL"
+  },
+  {
+    "name": "垒磊石",
+    "pinyin": "LeiLeiShi",
+    "pinyinInitials": "LLS"
+  },
+  {
+    "name": "砰头小丑",
+    "pinyin": "PengTouXiaoChou",
+    "pinyinInitials": "PTXC"
+  },
+  {
+    "name": "捷拉奥拉",
+    "pinyin": "JieLaAoLa",
+    "pinyinInitials": "JLAL"
+  },
+  {
+    "name": "美录坦",
+    "pinyin": "MeiLuTan",
+    "pinyinInitials": "MLT"
+  },
+  {
+    "name": "美录梅塔",
+    "pinyin": "MeiLuMeiTa",
+    "pinyinInitials": "MLMT"
+  },
+  {
+    "name": "敲音猴",
+    "pinyin": "QiaoYinHou",
+    "pinyinInitials": "QYH"
+  },
+  {
+    "name": "啪咚猴",
+    "pinyin": "PaDongHou",
+    "pinyinInitials": "PDH"
+  },
+  {
+    "name": "轰擂金刚猩",
+    "pinyin": "HongLeiJinGangXing",
+    "pinyinInitials": "HLJGX"
+  },
+  {
+    "name": "炎兔儿",
+    "pinyin": "YanTuEr",
+    "pinyinInitials": "YTE"
+  },
+  {
+    "name": "腾蹴小将",
+    "pinyin": "TengCuXiaoJiang",
+    "pinyinInitials": "TCXJ"
+  },
+  {
+    "name": "闪焰王牌",
+    "pinyin": "ShanYanWangPai",
+    "pinyinInitials": "SYWP"
+  },
+  {
+    "name": "泪眼蜥",
+    "pinyin": "LeiYanXi",
+    "pinyinInitials": "LYX"
+  },
+  {
+    "name": "变涩蜥",
+    "pinyin": "BianSeXi",
+    "pinyinInitials": "BSX"
+  },
+  {
+    "name": "千面避役",
+    "pinyin": "QianMianBiYi",
+    "pinyinInitials": "QMBY"
+  },
+  {
+    "name": "贪心栗鼠",
+    "pinyin": "TanXinLiShu",
+    "pinyinInitials": "TXLS"
+  },
+  {
+    "name": "藏饱栗鼠",
+    "pinyin": "CangBaoLiShu",
+    "pinyinInitials": "CBLS"
+  },
+  {
+    "name": "稚山雀",
+    "pinyin": "ZhiShanQue",
+    "pinyinInitials": "ZSQ"
+  },
+  {
+    "name": "蓝鸦",
+    "pinyin": "LanYa",
+    "pinyinInitials": "LY"
+  },
+  {
+    "name": "钢铠鸦",
+    "pinyin": "GangKaiYa",
+    "pinyinInitials": "GKY"
+  },
+  {
+    "name": "索侦虫",
+    "pinyin": "SuoZhenChong",
+    "pinyinInitials": "SZC"
+  },
+  {
+    "name": "天罩虫",
+    "pinyin": "TianZhaoChong",
+    "pinyinInitials": "TZC"
+  },
+  {
+    "name": "以欧路普",
+    "pinyin": "YiOuLuPu",
+    "pinyinInitials": "YOLP"
+  },
+  {
+    "name": "狡小狐",
+    "pinyin": "JiaoXiaoHu",
+    "pinyinInitials": "JXH"
+  },
+  {
+    "name": "猾大狐",
+    "pinyin": "HuaDaHu",
+    "pinyinInitials": "HDH"
+  },
+  {
+    "name": "幼棉棉",
+    "pinyin": "YouMianMian",
+    "pinyinInitials": "YMM"
+  },
+  {
+    "name": "白蓬蓬",
+    "pinyin": "BaiPengPeng",
+    "pinyinInitials": "BPP"
+  },
+  {
+    "name": "毛辫羊",
+    "pinyin": "MaoBianYang",
+    "pinyinInitials": "MBY"
+  },
+  {
+    "name": "毛毛角羊",
+    "pinyin": "MaoMaoJiaoYang",
+    "pinyinInitials": "MMJY"
+  },
+  {
+    "name": "咬咬龟",
+    "pinyin": "YaoYaoGui",
+    "pinyinInitials": "YYG"
+  },
+  {
+    "name": "暴噬龟",
+    "pinyin": "BaoShiGui",
+    "pinyinInitials": "BSG"
+  },
+  {
+    "name": "来电汪",
+    "pinyin": "LaiDianWang",
+    "pinyinInitials": "LDW"
+  },
+  {
+    "name": "逐电犬",
+    "pinyin": "ZhuDianQuan",
+    "pinyinInitials": "ZDQ"
+  },
+  {
+    "name": "小炭仔",
+    "pinyin": "XiaoTanZi",
+    "pinyinInitials": "XTZ"
+  },
+  {
+    "name": "大炭车",
+    "pinyin": "DaTanChe",
+    "pinyinInitials": "DTC"
+  },
+  {
+    "name": "巨炭山",
+    "pinyin": "JuTanShan",
+    "pinyinInitials": "JTS"
+  },
+  {
+    "name": "啃果虫",
+    "pinyin": "KenGuoChong",
+    "pinyinInitials": "KGC"
+  },
+  {
+    "name": "苹裹龙",
+    "pinyin": "PingGuoLong",
+    "pinyinInitials": "PGL"
+  },
+  {
+    "name": "丰蜜龙",
+    "pinyin": "FengMiLong",
+    "pinyinInitials": "FML"
+  },
+  {
+    "name": "沙包蛇",
+    "pinyin": "ShaBaoShe",
+    "pinyinInitials": "SBS"
+  },
+  {
+    "name": "沙螺蟒",
+    "pinyin": "ShaLuoMang",
+    "pinyinInitials": "SLM"
+  },
+  {
+    "name": "古月鸟",
+    "pinyin": "GuYueNiao",
+    "pinyinInitials": "GYN"
+  },
+  {
+    "name": "刺梭鱼",
+    "pinyin": "CiSuoYu",
+    "pinyinInitials": "CSY"
+  },
+  {
+    "name": "戽斗尖梭",
+    "pinyin": "HuDouJianSuo",
+    "pinyinInitials": "HDJS"
+  },
+  {
+    "name": "毒电婴",
+    "pinyin": "DuDianYing",
+    "pinyinInitials": "DDY"
+  },
+  {
+    "name": "颤弦蝾螈",
+    "pinyin": "ChanXianRongYuan",
+    "pinyinInitials": "CXRY"
+  },
+  {
+    "name": "烧火蚣",
+    "pinyin": "ShaoHuoGong",
+    "pinyinInitials": "SHG"
+  },
+  {
+    "name": "焚焰蚣",
+    "pinyin": "FenYanGong",
+    "pinyinInitials": "FYG"
+  },
+  {
+    "name": "拳拳蛸",
+    "pinyin": "QuanQuanXiao",
+    "pinyinInitials": "QQX"
+  },
+  {
+    "name": "八爪武师",
+    "pinyin": "BaZhaoWuShi",
+    "pinyinInitials": "BZWS"
+  },
+  {
+    "name": "来悲茶",
+    "pinyin": "LaiBeiCha",
+    "pinyinInitials": "LBC"
+  },
+  {
+    "name": "怖思壶",
+    "pinyin": "BuSiHu",
+    "pinyinInitials": "BSH"
+  },
+  {
+    "name": "迷布莉姆",
+    "pinyin": "MiBuLiMu",
+    "pinyinInitials": "MBLM"
+  },
+  {
+    "name": "提布莉姆",
+    "pinyin": "TiBuLiMu",
+    "pinyinInitials": "TBLM"
+  },
+  {
+    "name": "布莉姆温",
+    "pinyin": "BuLiMuWen",
+    "pinyinInitials": "BLMW"
+  },
+  {
+    "name": "捣蛋小妖",
+    "pinyin": "DaoDanXiaoYao",
+    "pinyinInitials": "DDXY"
+  },
+  {
+    "name": "诈唬魔",
+    "pinyin": "ZhaHuMo",
+    "pinyinInitials": "ZHM"
+  },
+  {
+    "name": "长毛巨魔",
+    "pinyin": "ChangMaoJuMo",
+    "pinyinInitials": "CMJM"
+  },
+  {
+    "name": "堵拦熊",
+    "pinyin": "DuLanXiong",
+    "pinyinInitials": "DLX"
+  },
+  {
+    "name": "喵头目",
+    "pinyin": "MiaoTouMu",
+    "pinyinInitials": "MTM"
+  },
+  {
+    "name": "魔灵珊瑚",
+    "pinyin": "MoLingShanHu",
+    "pinyinInitials": "MLSH"
+  },
+  {
+    "name": "葱游兵",
+    "pinyin": "CongYouBing",
+    "pinyinInitials": "CYB"
+  },
+  {
+    "name": "踏冰人偶",
+    "pinyin": "TaBingRenOu",
+    "pinyinInitials": "TBRO"
+  },
+  {
+    "name": "死神板",
+    "pinyin": "SiShenBan",
+    "pinyinInitials": "SSB"
+  },
+  {
+    "name": "小仙奶",
+    "pinyin": "XiaoXianNai",
+    "pinyinInitials": "XXN"
+  },
+  {
+    "name": "霜奶仙",
+    "pinyin": "ShuangNaiXian",
+    "pinyinInitials": "SNX"
+  },
+  {
+    "name": "列阵兵",
+    "pinyin": "LieZhenBing",
+    "pinyinInitials": "LZB"
+  },
+  {
+    "name": "啪嚓海胆",
+    "pinyin": "PaCaHaiDan",
+    "pinyinInitials": "PCHD"
+  },
+  {
+    "name": "雪吞虫",
+    "pinyin": "XueTunChong",
+    "pinyinInitials": "XTC"
+  },
+  {
+    "name": "雪绒蛾",
+    "pinyin": "XueRongE",
+    "pinyinInitials": "XRE"
+  },
+  {
+    "name": "巨石丁",
+    "pinyin": "JuShiDing",
+    "pinyinInitials": "JSD"
+  },
+  {
+    "name": "冰砌鹅",
+    "pinyin": "BingQiE",
+    "pinyinInitials": "BQE"
+  },
+  {
+    "name": "爱管侍",
+    "pinyin": "AiGuanShi",
+    "pinyinInitials": "AGS"
+  },
+  {
+    "name": "莫鲁贝可",
+    "pinyin": "MoLuBeiKe",
+    "pinyinInitials": "MLBK"
+  },
+  {
+    "name": "铜象",
+    "pinyin": "TongXiang",
+    "pinyinInitials": "TX"
+  },
+  {
+    "name": "大王铜象",
+    "pinyin": "DaWangTongXiang",
+    "pinyinInitials": "DWTX"
+  },
+  {
+    "name": "雷鸟龙",
+    "pinyin": "LeiNiaoLong",
+    "pinyinInitials": "LNL"
+  },
+  {
+    "name": "雷鸟海兽",
+    "pinyin": "LeiNiaoHaiShou",
+    "pinyinInitials": "LNHS"
+  },
+  {
+    "name": "鳃鱼龙",
+    "pinyin": "SaiYuLong",
+    "pinyinInitials": "SYL"
+  },
+  {
+    "name": "鳃鱼海兽",
+    "pinyin": "SaiYuHaiShou",
+    "pinyinInitials": "SYHS"
+  },
+  {
+    "name": "铝钢龙",
+    "pinyin": "LvGangLong",
+    "pinyinInitials": "LGL"
+  },
+  {
+    "name": "多龙梅西亚",
+    "pinyin": "DuoLongMeiXiYa",
+    "pinyinInitials": "DLMXY"
+  },
+  {
+    "name": "多龙奇",
+    "pinyin": "DuoLongQi",
+    "pinyinInitials": "DLQ"
+  },
+  {
+    "name": "多龙巴鲁托",
+    "pinyin": "DuoLongBaLuTuo",
+    "pinyinInitials": "DLBLT"
+  },
+  {
+    "name": "苍响",
+    "pinyin": "CangXiang",
+    "pinyinInitials": "CX"
+  },
+  {
+    "name": "藏玛然特",
+    "pinyin": "CangMaRanTe",
+    "pinyinInitials": "CMRT"
+  },
+  {
+    "name": "无极汰那",
+    "pinyin": "WuJiTaiNa",
+    "pinyinInitials": "WJTN"
+  },
+  {
+    "name": "熊徒弟",
+    "pinyin": "XiongTuDi",
+    "pinyinInitials": "XTD"
+  },
+  {
+    "name": "武道熊师",
+    "pinyin": "WuDaoXiongShi",
+    "pinyinInitials": "WDXS"
+  },
+  {
+    "name": "萨戮德",
+    "pinyin": "SaLuDe",
+    "pinyinInitials": "SLD"
+  },
+  {
+    "name": "雷吉艾勒奇",
+    "pinyin": "LeiJiAiLeQi",
+    "pinyinInitials": "LJALQ"
+  },
+  {
+    "name": "雷吉铎拉戈",
+    "pinyin": "LeiJiDuoLaGe",
+    "pinyinInitials": "LJDLG"
+  },
+  {
+    "name": "雪暴马",
+    "pinyin": "XueBaoMa",
+    "pinyinInitials": "XBM"
+  },
+  {
+    "name": "灵幽马",
+    "pinyin": "LingYouMa",
+    "pinyinInitials": "LYM"
+  },
+  {
+    "name": "蕾冠王",
+    "pinyin": "LeiGuanWang",
+    "pinyinInitials": "LGW"
+  },
+  {
+    "name": "诡角鹿",
+    "pinyin": "GuiJiaoLu",
+    "pinyinInitials": "GJL"
+  },
+  {
+    "name": "劈斧螳螂",
+    "pinyin": "PiFuTangLang",
+    "pinyinInitials": "PFTL"
+  },
+  {
+    "name": "月月熊",
+    "pinyin": "YueYueXiong",
+    "pinyinInitials": "YYX"
+  },
+  {
+    "name": "幽尾玄鱼",
+    "pinyin": "YouWeiXuanYu",
+    "pinyinInitials": "YWXY"
+  },
+  {
+    "name": "大狃拉",
+    "pinyin": "DaNiuLa",
+    "pinyinInitials": "DNL"
+  },
+  {
+    "name": "万针鱼",
+    "pinyin": "WanZhenYu",
+    "pinyinInitials": "WZY"
+  },
+  {
+    "name": "眷恋云",
+    "pinyin": "JuanLianYun",
+    "pinyinInitials": "JLY"
+  },
+  {
+    "name": "新叶喵",
+    "pinyin": "XinYeMiao",
+    "pinyinInitials": "XYM"
+  },
+  {
+    "name": "蒂蕾喵",
+    "pinyin": "DiLeiMiao",
+    "pinyinInitials": "DLM"
+  },
+  {
+    "name": "魔幻假面喵",
+    "pinyin": "MoHuanJiaMianMiao",
+    "pinyinInitials": "MHJMM"
+  },
+  {
+    "name": "呆火鳄",
+    "pinyin": "DaiHuoE",
+    "pinyinInitials": "DHE"
+  },
+  {
+    "name": "炙烫鳄",
+    "pinyin": "ZhiTangE",
+    "pinyinInitials": "ZTE"
+  },
+  {
+    "name": "骨纹巨声鳄",
+    "pinyin": "GuWenJuShengE",
+    "pinyinInitials": "GWJSE"
+  },
+  {
+    "name": "润水鸭",
+    "pinyin": "RunShuiYa",
+    "pinyinInitials": "RSY"
+  },
+  {
+    "name": "涌跃鸭",
+    "pinyin": "YongYueYa",
+    "pinyinInitials": "YYY"
+  },
+  {
+    "name": "狂欢浪舞鸭",
+    "pinyin": "KuangHuanLangWuYa",
+    "pinyinInitials": "KHLWY"
+  },
+  {
+    "name": "爱吃豚",
+    "pinyin": "AiChiTun",
+    "pinyinInitials": "ACT"
+  },
+  {
+    "name": "飘香豚",
+    "pinyin": "PiaoXiangTun",
+    "pinyinInitials": "PXT"
+  },
+  {
+    "name": "团珠蛛",
+    "pinyin": "TuanZhuZhu",
+    "pinyinInitials": "TZZ"
+  },
+  {
+    "name": "操陷蛛",
+    "pinyin": "CaoXianZhu",
+    "pinyinInitials": "CXZ"
+  },
+  {
+    "name": "豆蟋蟀",
+    "pinyin": "DouXiShuai",
+    "pinyinInitials": "DXS"
+  },
+  {
+    "name": "烈腿蝗",
+    "pinyin": "LieTuiHuang",
+    "pinyinInitials": "LTH"
+  },
+  {
+    "name": "布拨",
+    "pinyin": "BuBo",
+    "pinyinInitials": "BB"
+  },
+  {
+    "name": "布土拨",
+    "pinyin": "BuTuBo",
+    "pinyinInitials": "BTB"
+  },
+  {
+    "name": "巴布土拨",
+    "pinyin": "BaBuTuBo",
+    "pinyinInitials": "BBTB"
+  },
+  {
+    "name": "一对鼠",
+    "pinyin": "YiDuiShu",
+    "pinyinInitials": "YDS"
+  },
+  {
+    "name": "一家鼠",
+    "pinyin": "YiJiaShu",
+    "pinyinInitials": "YJS"
+  },
+  {
+    "name": "狗仔包",
+    "pinyin": "GouZiBao",
+    "pinyinInitials": "GZB"
+  },
+  {
+    "name": "麻花犬",
+    "pinyin": "MaHuaQuan",
+    "pinyinInitials": "MHQ"
+  },
+  {
+    "name": "迷你芙",
+    "pinyin": "MiNiFu",
+    "pinyinInitials": "MNF"
+  },
+  {
+    "name": "奥利纽",
+    "pinyin": "AoLiNiu",
+    "pinyinInitials": "ALN"
+  },
+  {
+    "name": "奥利瓦",
+    "pinyin": "AoLiWa",
+    "pinyinInitials": "ALW"
+  },
+  {
+    "name": "怒鹦哥",
+    "pinyin": "NuYingGe",
+    "pinyinInitials": "NYG"
+  },
+  {
+    "name": "盐石宝",
+    "pinyin": "YanShiBao",
+    "pinyinInitials": "YSB"
+  },
+  {
+    "name": "盐石垒",
+    "pinyin": "YanShiLei",
+    "pinyinInitials": "YSL"
+  },
+  {
+    "name": "盐石巨灵",
+    "pinyin": "YanShiJuLing",
+    "pinyinInitials": "YSJL"
+  },
+  {
+    "name": "炭小侍",
+    "pinyin": "TanXiaoShi",
+    "pinyinInitials": "TXS"
+  },
+  {
+    "name": "红莲铠骑",
+    "pinyin": "HongLianKaiQi",
+    "pinyinInitials": "HLKQ"
+  },
+  {
+    "name": "苍炎刃鬼",
+    "pinyin": "CangYanRenGui",
+    "pinyinInitials": "CYRG"
+  },
+  {
+    "name": "光蚪仔",
+    "pinyin": "GuangDouZi",
+    "pinyinInitials": "GDZ"
+  },
+  {
+    "name": "电肚蛙",
+    "pinyin": "DianDuWa",
+    "pinyinInitials": "DDW"
+  },
+  {
+    "name": "电海燕",
+    "pinyin": "DianHaiYan",
+    "pinyinInitials": "DHY"
+  },
+  {
+    "name": "大电海燕",
+    "pinyin": "DaDianHaiYan",
+    "pinyinInitials": "DDHY"
+  },
+  {
+    "name": "偶叫獒",
+    "pinyin": "OuJiaoAo",
+    "pinyinInitials": "OJA"
+  },
+  {
+    "name": "獒教父",
+    "pinyin": "AoJiaoFu",
+    "pinyinInitials": "AJF"
+  },
+  {
+    "name": "滋汁鼹",
+    "pinyin": "ZiZhiYan",
+    "pinyinInitials": "ZZY"
+  },
+  {
+    "name": "涂标客",
+    "pinyin": "TuBiaoKe",
+    "pinyinInitials": "TBK"
+  },
+  {
+    "name": "纳噬草",
+    "pinyin": "NaShiCao",
+    "pinyinInitials": "NSC"
+  },
+  {
+    "name": "怖纳噬草",
+    "pinyin": "BuNaShiCao",
+    "pinyinInitials": "BNSC"
+  },
+  {
+    "name": "原野水母",
+    "pinyin": "YuanYeShuiMu",
+    "pinyinInitials": "YYSM"
+  },
+  {
+    "name": "陆地水母",
+    "pinyin": "LuDiShuiMu",
+    "pinyinInitials": "LDSM"
+  },
+  {
+    "name": "毛崖蟹",
+    "pinyin": "MaoYaXie",
+    "pinyinInitials": "MYX"
+  },
+  {
+    "name": "热辣娃",
+    "pinyin": "ReLaWa",
+    "pinyinInitials": "RLW"
+  },
+  {
+    "name": "狠辣椒",
+    "pinyin": "HenLaJiao",
+    "pinyinInitials": "HLJ"
+  },
+  {
+    "name": "虫滚泥",
+    "pinyin": "ChongGunNi",
+    "pinyinInitials": "CGN"
+  },
+  {
+    "name": "虫甲圣",
+    "pinyin": "ChongJiaSheng",
+    "pinyinInitials": "CJS"
+  },
+  {
+    "name": "飘飘雏",
+    "pinyin": "PiaoPiaoChu",
+    "pinyinInitials": "PPC"
+  },
+  {
+    "name": "超能艳鸵",
+    "pinyin": "ChaoNengYanTuo",
+    "pinyinInitials": "CNYT"
+  },
+  {
+    "name": "小锻匠",
+    "pinyin": "XiaoDuanJiang",
+    "pinyinInitials": "XDJ"
+  },
+  {
+    "name": "巧锻匠",
+    "pinyin": "QiaoDuanJiang",
+    "pinyinInitials": "QDJ"
+  },
+  {
+    "name": "巨锻匠",
+    "pinyin": "JuDuanJiang",
+    "pinyinInitials": "JDJ"
+  },
+  {
+    "name": "海地鼠",
+    "pinyin": "HaiDiShu",
+    "pinyinInitials": "HDS"
+  },
+  {
+    "name": "三海地鼠",
+    "pinyin": "SanHaiDiShu",
+    "pinyinInitials": "SHDS"
+  },
+  {
+    "name": "下石鸟",
+    "pinyin": "XiaShiNiao",
+    "pinyinInitials": "XSN"
+  },
+  {
+    "name": "波普海豚",
+    "pinyin": "BoPuHaiTun",
+    "pinyinInitials": "BPHT"
+  },
+  {
+    "name": "海豚侠",
+    "pinyin": "HaiTunXia",
+    "pinyinInitials": "HTX"
+  },
+  {
+    "name": "噗隆隆",
+    "pinyin": "PuLongLong",
+    "pinyinInitials": "PLL"
+  },
+  {
+    "name": "普隆隆姆",
+    "pinyin": "PuLongLongMu",
+    "pinyinInitials": "PLLM"
+  },
+  {
+    "name": "摩托蜥",
+    "pinyin": "MoTuoXi",
+    "pinyinInitials": "MTX"
+  },
+  {
+    "name": "拖拖蚓",
+    "pinyin": "TuoTuoYin",
+    "pinyinInitials": "TTY"
+  },
+  {
+    "name": "晶光芽",
+    "pinyin": "JingGuangYa",
+    "pinyinInitials": "JGY"
+  },
+  {
+    "name": "晶光花",
+    "pinyin": "JingGuangHua",
+    "pinyinInitials": "JGH"
+  },
+  {
+    "name": "墓仔狗",
+    "pinyin": "MuZiGou",
+    "pinyinInitials": "MZG"
+  },
+  {
+    "name": "墓扬犬",
+    "pinyin": "MuYangQuan",
+    "pinyinInitials": "MYQ"
+  },
+  {
+    "name": "缠红鹤",
+    "pinyin": "ChanHongHe",
+    "pinyinInitials": "CHH"
+  },
+  {
+    "name": "走鲸",
+    "pinyin": "ZouJing",
+    "pinyinInitials": "ZJ"
+  },
+  {
+    "name": "浩大鲸",
+    "pinyin": "HaoDaJing",
+    "pinyinInitials": "HDJ"
+  },
+  {
+    "name": "轻身鳕",
+    "pinyin": "QingShenXue",
+    "pinyinInitials": "QSX"
+  },
+  {
+    "name": "吃吼霸",
+    "pinyin": "ChiHouBa",
+    "pinyinInitials": "CHB"
+  },
+  {
+    "name": "米立龙",
+    "pinyin": "MiLiLong",
+    "pinyinInitials": "MLL"
+  },
+  {
+    "name": "弃世猴",
+    "pinyin": "QiShiHou",
+    "pinyinInitials": "QSH"
+  },
+  {
+    "name": "土王",
+    "pinyin": "TuWang",
+    "pinyinInitials": "TW"
+  },
+  {
+    "name": "奇麒麟",
+    "pinyin": "QiQiLin",
+    "pinyinInitials": "QQL"
+  },
+  {
+    "name": "土龙节节",
+    "pinyin": "TuLongJieJie",
+    "pinyinInitials": "TLJJ"
+  },
+  {
+    "name": "仆斩将军",
+    "pinyin": "PuZhanJiangJun",
+    "pinyinInitials": "PZJJ"
+  },
+  {
+    "name": "雄伟牙",
+    "pinyin": "XiongWeiYa",
+    "pinyinInitials": "XWY"
+  },
+  {
+    "name": "吼叫尾",
+    "pinyin": "HouJiaoWei",
+    "pinyinInitials": "HJW"
+  },
+  {
+    "name": "猛恶菇",
+    "pinyin": "MengEGu",
+    "pinyinInitials": "MEG"
+  },
+  {
+    "name": "振翼发",
+    "pinyin": "ZhenYiFa",
+    "pinyinInitials": "ZYF"
+  },
+  {
+    "name": "爬地翅",
+    "pinyin": "PaDiChi",
+    "pinyinInitials": "PDC"
+  },
+  {
+    "name": "沙铁皮",
+    "pinyin": "ShaTiePi",
+    "pinyinInitials": "STP"
+  },
+  {
+    "name": "铁辙迹",
+    "pinyin": "TieZheJi",
+    "pinyinInitials": "TZJ"
+  },
+  {
+    "name": "铁包袱",
+    "pinyin": "TieBaoFu",
+    "pinyinInitials": "TBF"
+  },
+  {
+    "name": "铁臂膀",
+    "pinyin": "TieBiBang",
+    "pinyinInitials": "TBB"
+  },
+  {
+    "name": "铁脖颈",
+    "pinyin": "TieBoJing",
+    "pinyinInitials": "TBJ"
+  },
+  {
+    "name": "铁毒蛾",
+    "pinyin": "TieDuE",
+    "pinyinInitials": "TDE"
+  },
+  {
+    "name": "铁荆棘",
+    "pinyin": "TieJingJi",
+    "pinyinInitials": "TJJ"
+  },
+  {
+    "name": "凉脊龙",
+    "pinyin": "LiangJiLong",
+    "pinyinInitials": "LJL"
+  },
+  {
+    "name": "冻脊龙",
+    "pinyin": "DongJiLong",
+    "pinyinInitials": "DJL"
+  },
+  {
+    "name": "戟脊龙",
+    "pinyin": "JiJiLong",
+    "pinyinInitials": "JJL"
+  },
+  {
+    "name": "索财灵",
+    "pinyin": "SuoCaiLing",
+    "pinyinInitials": "SCL"
+  },
+  {
+    "name": "赛富豪",
+    "pinyin": "SaiFuHao",
+    "pinyinInitials": "SFH"
+  },
+  {
+    "name": "古简蜗",
+    "pinyin": "GuJianWo",
+    "pinyinInitials": "GJW"
+  },
+  {
+    "name": "古剑豹",
+    "pinyin": "GuJianBao",
+    "pinyinInitials": "GJB"
+  },
+  {
+    "name": "古鼎鹿",
+    "pinyin": "GuDingLu",
+    "pinyinInitials": "GDL"
+  },
+  {
+    "name": "古玉鱼",
+    "pinyin": "GuYuYu",
+    "pinyinInitials": "GYY"
+  },
+  {
+    "name": "轰鸣月",
+    "pinyin": "HongMingYue",
+    "pinyinInitials": "HMY"
+  },
+  {
+    "name": "铁武者",
+    "pinyin": "TieWuZhe",
+    "pinyinInitials": "TWZ"
+  },
+  {
+    "name": "故勒顿",
+    "pinyin": "GuLeDun",
+    "pinyinInitials": "GLD"
+  },
+  {
+    "name": "密勒顿",
+    "pinyin": "MiLeDun",
+    "pinyinInitials": "MLD"
+  },
+  {
+    "name": "波荡水",
+    "pinyin": "BoDangShui",
+    "pinyinInitials": "BDS"
+  },
+  {
+    "name": "铁斑叶",
+    "pinyin": "TieBanYe",
+    "pinyinInitials": "TBY"
+  },
+  {
+    "name": "裹蜜虫",
+    "pinyin": "GuoMiChong",
+    "pinyinInitials": "GMC"
+  },
+  {
+    "name": "斯魔茶",
+    "pinyin": "SiMoCha",
+    "pinyinInitials": "SMC"
+  },
+  {
+    "name": "来悲粗茶",
+    "pinyin": "LaiBeiCuCha",
+    "pinyinInitials": "LBCC"
+  },
+  {
+    "name": "够赞狗",
+    "pinyin": "GouZanGou",
+    "pinyinInitials": "GZG"
+  },
+  {
+    "name": "愿增猿",
+    "pinyin": "YuanZengYuan",
+    "pinyinInitials": "YZY"
+  },
+  {
+    "name": "吉雉鸡",
+    "pinyin": "JiZhiJi",
+    "pinyinInitials": "JZJ"
+  },
+  {
+    "name": "厄诡椪",
+    "pinyin": "EGuiPeng",
+    "pinyinInitials": "EGP"
+  },
+  {
+    "name": "铝钢桥龙",
+    "pinyin": "LvGangQiaoLong",
+    "pinyinInitials": "LGQL"
+  },
+  {
+    "name": "蜜集大蛇",
+    "pinyin": "MiJiDaShe",
+    "pinyinInitials": "MJDS"
+  },
+  {
+    "name": "破空焰",
+    "pinyin": "PoKongYan",
+    "pinyinInitials": "PKY"
+  },
+  {
+    "name": "猛雷鼓",
+    "pinyin": "MengLeiGu",
+    "pinyinInitials": "MLG"
+  },
+  {
+    "name": "铁磐岩",
+    "pinyin": "TiePanYan",
+    "pinyinInitials": "TPY"
+  },
+  {
+    "name": "铁头壳",
+    "pinyin": "TieTouKe",
+    "pinyinInitials": "TTK"
+  },
+  {
+    "name": "太乐巴戈斯",
+    "pinyin": "TaiLeBaGeSi",
+    "pinyinInitials": "TLBGS"
+  },
+  {
+    "name": "桃歹郎",
+    "pinyin": "TaoDaiLang",
+    "pinyinInitials": "TDL"
+  }
+]

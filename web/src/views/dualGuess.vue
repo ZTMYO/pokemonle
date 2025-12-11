@@ -57,7 +57,9 @@
                   placeholder="请输入宝可梦名称"
                   :trigger-on-focus="false"
                   popper-class="autocomplete-dropdown"
-                  style="width: 100%"></el-autocomplete>
+                  style="width: 100%"
+                  @keyup.enter.native="handleEnterKey"
+                  @select="handleSelect"></el-autocomplete>
             </el-col>
           </el-row>
           <el-row type="flex" justify="center" align="middle" class="input-row">
@@ -390,13 +392,23 @@ export default {
       }
       const query = queryString.toLowerCase();
       return (item) => {
-        const target = (item.value || '').toLowerCase();
-        let qIndex = 0, tIndex = 0;
-        while (qIndex < query.length && tIndex < target.length) {
-          if (query[qIndex] === target[tIndex]) qIndex++;
-          tIndex++;
-        }
-        return qIndex === query.length;
+        // 支持中文名、拼音全拼、拼音首字母搜索
+        const name = (item.value || '').toLowerCase();
+        const pinyin = (item.pinyin || '').toLowerCase();
+        const pinyinInitials = (item.pinyinInitials || '').toLowerCase();
+        
+        // 模糊匹配函数
+        const fuzzyMatch = (target) => {
+          let qIndex = 0, tIndex = 0;
+          while (qIndex < query.length && tIndex < target.length) {
+            if (query[qIndex] === target[tIndex]) qIndex++;
+            tIndex++;
+          }
+          return qIndex === query.length;
+        };
+        
+        // 匹配中文名、拼音或拼音首字母
+        return fuzzyMatch(name) || fuzzyMatch(pinyin) || fuzzyMatch(pinyinInitials);
       };
     },
     querySearch(queryString, cb) {
@@ -413,7 +425,12 @@ export default {
     async loadName() {
       try {
         this.tempdata = require(`@/assets/json/WordInfo.json`);
-        this.nameList = this.tempdata.map(item => ({value: item}));
+        // 新格式：包含 name, pinyin, pinyinInitials
+        this.nameList = this.tempdata.map(item => ({
+          value: item.name,
+          pinyin: item.pinyin,
+          pinyinInitials: item.pinyinInitials
+        }));
         console.log("名称列表加载成功");
       } catch (error) {
         console.error("加载名称失败:", error);
@@ -425,7 +442,17 @@ export default {
           };
           await axios.request(options).then((response) => {
             this.tempdata = response.data;
-            this.nameList = this.tempdata.map(item => ({value: item}));
+            // 兼容旧格式API返回
+            this.nameList = this.tempdata.map(item => {
+              if (typeof item === 'string') {
+                return { value: item, pinyin: '', pinyinInitials: '' };
+              }
+              return {
+                value: item.name,
+                pinyin: item.pinyin || '',
+                pinyinInitials: item.pinyinInitials || ''
+              };
+            });
           }).catch(function (error) {
             console.error("API获取名称失败:", error);
           });
@@ -491,6 +518,16 @@ export default {
     },
     async RestartHostGame() {
       this.initGame()
+    },
+    handleEnterKey() {
+      // 回车键确认猜测
+      if (!this.gameover && this.input) {
+        this.Guess();
+      }
+    },
+    handleSelect(item) {
+      // 选择下拉项后自动填入
+      this.input = item.value;
     },
     async Guess() {
       try {
@@ -684,52 +721,16 @@ export default {
     },
     async loadPokemonImage(data, tempObj) {
       try {
-        if (this.useGitHubImages) {
-          // 使用GitHub图片
-          const id = parseInt(data.index);
-          if (!isNaN(id)) {
-            const githubUrl = `https://pokedata.archknowledge.com.cn/i/pokemon/${id}.png`;
-            tempObj.imgUrl = githubUrl;
-
-            // 检查图片是否可访问
-            const imgCheck = new Image();
-            imgCheck.onerror = async () => {
-              console.log("GitHub图片加载失败，尝试使用API");
-              tempObj.imgUrl = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${id}.png`;
-            };
-            imgCheck.src = githubUrl;
-          } else {
-            console.warn("无效的宝可梦ID:", data.index);
-            await this.loadApiImage(data.name, tempObj);
-          }
-        } else {
-          // 直接使用API图片
-          await this.loadApiImage(data.name, tempObj);
-        }
+        // 直接使用本地 API 获取图片
+        tempObj.imgUrl = `${process.env.VUE_APP_API_BASE_URL}/getimage?pokemon=${encodeURIComponent(data.name)}`;
       } catch (error) {
         console.error("图片加载错误:", error);
-        // 设置默认图片或错误占位图
-        //tempObj.imgUrl = require("@/assets/img/pokemon-placeholder.png");
       }
     },
 
     // API图片加载方法
     async loadApiImage(pokemonName, tempObj) {
-      // try {
-      // 	const options = {
-      // 	method: 'GET',
-      // 	url: `${process.env.VUE_APP_API_BASE_URL}/getimage`,
-      // 	params: {pokemon: pokemonName},
-      // 	responseType: 'blob'
-      // 	};
-      // 	const response = await axios.request(options);
-      // 	const blob = new Blob([response.data]);
-      // 	tempObj.imgUrl = URL.createObjectURL(blob);
-      // } catch (error) {
-      // 	console.error('API图片获取失败:', error);
-      // 	// 设置默认图片
-      // 	//tempObj.imgUrl = require("@/assets/img/pokemon-placeholder.png");
-      // }
+      tempObj.imgUrl = `${process.env.VUE_APP_API_BASE_URL}/getimage?pokemon=${encodeURIComponent(pokemonName)}`;
     },
 
     ValueText(key, value) {

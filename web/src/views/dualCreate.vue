@@ -445,7 +445,11 @@ export default {
     async loadName() {
       try {
         this.tempdata = require(`@/assets/json/WordInfo.json`);
-        this.nameList = this.tempdata.map(item => ({value: item}));
+        this.nameList = this.tempdata.map(item => ({
+          value: item.name,
+          pinyin: item.pinyin,
+          pinyinInitials: item.pinyinInitials
+        }));
         console.log("名称列表加载成功");
       } catch (error) {
         console.error("加载名称失败:", error);
@@ -457,7 +461,16 @@ export default {
           };
           await axios.request(options).then((response) => {
             this.tempdata = response.data;
-            this.nameList = this.tempdata.map(item => ({value: item}));
+            this.nameList = this.tempdata.map(item => {
+              if (typeof item === 'string') {
+                return { value: item, pinyin: '', pinyinInitials: '' };
+              }
+              return {
+                value: item.name,
+                pinyin: item.pinyin || '',
+                pinyinInitials: item.pinyinInitials || ''
+              };
+            });
           }).catch(function (error) {
             console.error("API获取名称失败:", error);
           });
@@ -474,14 +487,23 @@ export default {
       const query = queryString.toLowerCase();
 
       return (item) => {
-        const target = (item.value || '').toLowerCase();
-        let qIndex = 0, tIndex = 0;
-
-        while (qIndex < query.length && tIndex < target.length) {
-          if (query[qIndex] === target[tIndex]) qIndex++;
-          tIndex++;
-        }
-        return qIndex === query.length;
+        // 支持中文名、拼音全拼、拼音首字母搜索
+        const name = (item.value || '').toLowerCase();
+        const pinyin = (item.pinyin || '').toLowerCase();
+        const pinyinInitials = (item.pinyinInitials || '').toLowerCase();
+        
+        // 模糊匹配函数
+        const fuzzyMatch = (target) => {
+          let qIndex = 0, tIndex = 0;
+          while (qIndex < query.length && tIndex < target.length) {
+            if (query[qIndex] === target[tIndex]) qIndex++;
+            tIndex++;
+          }
+          return qIndex === query.length;
+        };
+        
+        // 匹配中文名、拼音或拼音首字母
+        return fuzzyMatch(name) || fuzzyMatch(pinyin) || fuzzyMatch(pinyinInitials);
       };
     },
     querySearch(queryString, cb) {
